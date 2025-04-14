@@ -357,6 +357,7 @@
       "baked_potato": "2025-03-21 04:45:37 +0000",
       "golden_carrot": "2025-04-10 00:17:09 +0000",
       "cooked_chicken": "2025-03-21 04:34:58 +0000",
+      "enchanted_golden_apple": "2025-04-14 07:03:15 +0000",
       "potato": "2025-03-21 05:28:54 +0000",
       "cooked_salmon": "2025-03-21 02:13:40 +0000",
       "carrot": "2025-04-07 23:29:54 +0000"
@@ -651,6 +652,7 @@
       "minecraft:blaze": "2025-04-08 04:47:25 +0000",
       "minecraft:skeleton": "2025-03-21 00:59:11 +0000",
       "minecraft:zombified_piglin": "2025-04-08 05:27:06 +0000",
+      "minecraft:witch": "2025-04-14 06:47:19 +0000",
       "minecraft:wither_skeleton": "2025-04-08 04:45:44 +0000",
       "minecraft:ravager": "2025-04-07 04:39:36 +0000",
       "minecraft:husk": "2025-04-10 00:02:58 +0000",
@@ -663,7 +665,8 @@
       "minecraft:spider": "2025-03-22 04:29:35 +0000",
       "minecraft:zombie": "2025-03-21 00:44:58 +0000",
       "minecraft:creeper": "2025-03-22 04:17:27 +0000",
-      "minecraft:slime": "2025-04-07 01:29:41 +0000"
+      "minecraft:slime": "2025-04-07 01:29:41 +0000",
+      "minecraft:evoker": "2025-04-14 06:50:20 +0000"
     },
     "done": false
   },
@@ -2497,7 +2500,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cat": "2025-03-22 07:21:50 +0000"
+      "minecraft:cat": "2025-03-22 07:21:50 +0000",
+      "minecraft:armadillo": "2025-04-14 06:14:33 +0000"
     },
     "done": false
   },
@@ -3413,6 +3417,96 @@
   "minecraft:husbandry/wax_off": {
     "criteria": {
       "wax_off": "2025-04-10 00:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-04-14 06:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-04-14 06:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-04-14 06:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-14 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-14 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-14 07:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-14 07:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-04-14 06:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-14 06:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-14 06:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-14 07:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-14 07:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-14 06:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-14 07:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-14 07:02:51 +0000"
     },
     "done": true
   },
