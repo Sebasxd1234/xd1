@@ -34,3 +34,16 @@
 [16:57:20] [Server thread/INFO]: _Sebas23_ left the game
 [16:57:23] [Server thread/INFO]: _Sebas23_[/100.93.67.125:51279] logged in with entity id 1721 at (2792.177889181361, 70.7531999805212, -707.7794257857403)
 [16:57:23] [Server thread/INFO]: _Sebas23_ joined the game
+[17:27:27] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[17:27:27] [Server thread/INFO]: _Sebas23_ left the game
+[17:27:39] [Server thread/INFO]: Stopping the server
+[17:27:39] [Server thread/INFO]: Stopping server
+[17:27:39] [Server thread/INFO]: Saving players
+[17:27:39] [Server thread/INFO]: Saving worlds
+[17:27:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:27:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:27:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:27:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:27:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:27:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:27:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
