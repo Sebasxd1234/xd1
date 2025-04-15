@@ -361,3 +361,62 @@
 [03:31:11] [Server thread/INFO]: Villager cmk['Fletcher'/25909, l='ServerLevel[world]', x=2809.61, y=70.00, z=-676.28] died, message: 'Fletcher was slain by chepaboy'
 [03:31:11] [Server thread/INFO]: Villager cmk['Fletcher'/1219, l='ServerLevel[world]', x=2809.87, y=70.00, z=-675.80] died, message: 'Fletcher was slain by chepaboy'
 [03:31:14] [Server thread/INFO]: Villager cmk['Fletcher'/47, l='ServerLevel[world]', x=2807.50, y=70.00, z=-673.46] died, message: 'Fletcher was slain by chepaboy'
+[03:40:30] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[03:40:30] [Server thread/INFO]: _Sebas23_ left the game
+[03:40:31] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28422] logged in with entity id 34370 at (2793.699999988079, 70.0, -705.5568040145916)
+[03:40:31] [Server thread/INFO]: _Sebas23_ joined the game
+[03:41:16] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[03:41:16] [Server thread/INFO]: _Sebas23_ left the game
+[03:41:18] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28426] logged in with entity id 34792 at (2793.699999988079, 70.875, -705.5568040145916)
+[03:41:18] [Server thread/INFO]: _Sebas23_ joined the game
+[03:41:33] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[03:41:33] [Server thread/INFO]: _Sebas23_ left the game
+[03:41:33] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28429] logged in with entity id 34938 at (2790.8674289607334, 73.0, -703.550519499961)
+[03:41:33] [Server thread/INFO]: _Sebas23_ joined the game
+[03:43:22] [Server thread/WARN]: _Sebas23_ moved too quickly! -2.576591068995185,1.0,9.805255681125345
+[03:43:37] [Server thread/WARN]: _Sebas23_ moved too quickly! 2.0468754042613,-0.4793204573332872,-10.084637687839859
+[03:43:39] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[03:43:39] [Server thread/INFO]: _Sebas23_ left the game
+[03:43:41] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28437] logged in with entity id 36039 at (2808.1126170121934, 70.0, -694.5265369605678)
+[03:43:41] [Server thread/INFO]: _Sebas23_ joined the game
+[03:44:02] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[03:44:02] [Server thread/INFO]: _Sebas23_ left the game
+[03:44:04] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28444] logged in with entity id 36340 at (2793.459032544091, 74.0, -706.6051693080775)
+[03:44:04] [Server thread/INFO]: _Sebas23_ joined the game
+[03:44:28] [Server thread/WARN]: _Sebas23_ moved too quickly! 4.163877498760485,1.1765347236627832,-9.276057915585739
+[03:44:28] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[03:44:28] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[03:44:28] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[03:44:50] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[03:44:50] [Server thread/INFO]: _Sebas23_ left the game
+[03:44:51] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28449] logged in with entity id 36814 at (2844.145665563128, 69.79673560066871, -764.3334870924431)
+[03:44:51] [Server thread/INFO]: _Sebas23_ joined the game
+[03:45:59] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[03:45:59] [Server thread/INFO]: _Sebas23_ left the game
+[03:45:59] [Server thread/WARN]: handleDisconnection() called twice
+[03:46:00] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28464] logged in with entity id 37386 at (2792.980675786167, 70.0, -728.9217984309048)
+[03:46:00] [Server thread/INFO]: _Sebas23_ joined the game
+[03:46:49] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[03:46:49] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[03:46:49] [Server thread/INFO]: _Sebas23_ left the game
+[03:46:52] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28468] logged in with entity id 37855 at (2784.5356332078, 71.00133597911214, -693.6982615442961)
+[03:46:52] [Server thread/INFO]: _Sebas23_ joined the game
+[03:47:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2776, y=70, z=-633} jd{x=2777, y=69, z=-634}
+[03:47:41] [Server thread/WARN]: _Sebas23_ moved too quickly! 3.7755667811425155,0.41999998688697815,-9.682731807752702
+[03:47:43] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[03:47:43] [Server thread/INFO]: _Sebas23_ left the game
+[03:47:44] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28475] logged in with entity id 38289 at (2791.492699229013, 70.0, -711.3057219881331)
+[03:47:44] [Server thread/INFO]: _Sebas23_ joined the game
+[03:47:49] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[03:47:49] [Server thread/INFO]: _Sebas23_ left the game
+[03:47:57] [Server thread/INFO]: Stopping the server
+[03:47:57] [Server thread/INFO]: Stopping server
+[03:47:57] [Server thread/INFO]: Saving players
+[03:47:57] [Server thread/INFO]: Saving worlds
+[03:47:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:47:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:47:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:47:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:47:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:47:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:47:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
