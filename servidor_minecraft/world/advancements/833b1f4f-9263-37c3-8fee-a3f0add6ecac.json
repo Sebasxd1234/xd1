@@ -353,6 +353,7 @@
       "golden_apple": "2025-03-21 04:20:29 +0000",
       "honey_bottle": "2025-04-09 23:40:07 +0000",
       "suspicious_stew": "2025-04-15 04:21:20 +0000",
+      "cookie": "2025-04-15 05:19:45 +0000",
       "cooked_mutton": "2025-03-21 01:38:39 +0000",
       "cooked_beef": "2025-03-21 01:25:23 +0000",
       "baked_potato": "2025-03-21 04:45:37 +0000",
@@ -657,6 +658,7 @@
       "minecraft:wither_skeleton": "2025-04-08 04:45:44 +0000",
       "minecraft:ravager": "2025-04-07 04:39:36 +0000",
       "minecraft:husk": "2025-04-10 00:02:58 +0000",
+      "minecraft:ghast": "2025-04-15 05:09:50 +0000",
       "minecraft:cave_spider": "2025-04-10 00:20:12 +0000",
       "minecraft:breeze": "2025-03-21 04:12:51 +0000",
       "minecraft:vindicator": "2025-04-07 04:38:15 +0000",
@@ -3520,6 +3522,24 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-04-15 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-15 05:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-15 05:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-15 05:12:00 +0000"
     },
     "done": true
   },

@@ -3713,5 +3713,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:armadillo": "2025-04-15 05:33:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-15 05:33:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
