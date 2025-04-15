@@ -1,422 +1,108 @@
-[01:38:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:38:24] [ServerMain/INFO]: Loaded 1290 recipes
-[01:38:24] [ServerMain/INFO]: Loaded 1399 advancements
-[01:38:26] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:38:26] [Server thread/INFO]: Loading properties
-[01:38:26] [Server thread/INFO]: Default game type: SURVIVAL
-[01:38:26] [Server thread/INFO]: Generating keypair
-[01:38:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:38:26] [Server thread/INFO]: Using epoll channel type
-[01:38:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:38:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:38:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:38:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:38:26] [Server thread/INFO]: Preparing level "world"
-[01:38:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:38:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:38] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[01:38:38] [Worker-Main-1/INFO]: Preparing spawn area: 55%
-[01:38:38] [Server thread/INFO]: Time elapsed: 2706 ms
-[01:38:38] [Server thread/INFO]: Done (12.027s)! For help, type "help"
-[01:38:43] [Server thread/INFO]: chepaboy[/100.80.73.88:52029] logged in with entity id 18 at (2819.148084324803, 70.5625, -702.0562420672993)
-[01:38:43] [Server thread/INFO]: chepaboy joined the game
-[01:38:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
-[01:39:01] [Server thread/INFO]: /advancement (grant|revoke)
-[01:39:01] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[01:39:01] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[01:39:01] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[01:39:01] [Server thread/INFO]: /clear [<targets>]
-[01:39:01] [Server thread/INFO]: /clone (<begin>|from)
-[01:39:01] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[01:39:01] [Server thread/INFO]: /data (merge|get|remove|modify)
-[01:39:01] [Server thread/INFO]: /datapack (enable|disable|list)
-[01:39:01] [Server thread/INFO]: /debug (start|stop|function)
-[01:39:01] [Server thread/INFO]: /defaultgamemode <gamemode>
-[01:39:01] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[01:39:01] [Server thread/INFO]: /effect (clear|give)
-[01:39:01] [Server thread/INFO]: /me <action>
-[01:39:01] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[01:39:01] [Server thread/INFO]: /experience (add|set|query)
-[01:39:01] [Server thread/INFO]: /xp -> experience
-[01:39:01] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[01:39:01] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[01:39:01] [Server thread/INFO]: /forceload (add|remove|query)
-[01:39:01] [Server thread/INFO]: /function <name> [<arguments>|with]
-[01:39:01] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[01:39:01] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[01:39:01] [Server thread/INFO]: /give <targets> <item> [<count>]
-[01:39:01] [Server thread/INFO]: /help [<command>]
-[01:39:01] [Server thread/INFO]: /item (replace|modify)
-[01:39:01] [Server thread/INFO]: /kick <targets> [<reason>]
-[01:39:01] [Server thread/INFO]: /kill [<targets>]
-[01:39:01] [Server thread/INFO]: /list [uuids]
-[01:39:01] [Server thread/INFO]: /locate (structure|biome|poi)
-[01:39:01] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[01:39:01] [Server thread/INFO]: /msg <targets> <message>
-[01:39:01] [Server thread/INFO]: /tell -> msg
-[01:39:01] [Server thread/INFO]: /w -> msg
-[01:39:01] [Server thread/INFO]: /particle <name> [<pos>]
-[01:39:01] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[01:39:01] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[01:39:01] [Server thread/INFO]: /random (value|roll|reset)
-[01:39:01] [Server thread/INFO]: /reload
-[01:39:01] [Server thread/INFO]: /recipe (give|take)
-[01:39:01] [Server thread/INFO]: /return (<value>|fail|run)
-[01:39:01] [Server thread/INFO]: /ride <target> (mount|dismount)
-[01:39:01] [Server thread/INFO]: /say <message>
-[01:39:01] [Server thread/INFO]: /schedule (function|clear)
-[01:39:01] [Server thread/INFO]: /scoreboard (objectives|players)
-[01:39:01] [Server thread/INFO]: /seed
-[01:39:01] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[01:39:01] [Server thread/INFO]: /spawnpoint [<targets>]
-[01:39:01] [Server thread/INFO]: /setworldspawn [<pos>]
-[01:39:01] [Server thread/INFO]: /spectate [<target>]
-[01:39:01] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[01:39:01] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[01:39:01] [Server thread/INFO]: /summon <entity> [<pos>]
-[01:39:01] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[01:39:01] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[01:39:01] [Server thread/INFO]: /teammsg <message>
-[01:39:01] [Server thread/INFO]: /tm -> teammsg
-[01:39:01] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[01:39:01] [Server thread/INFO]: /tp -> teleport
-[01:39:01] [Server thread/INFO]: /tellraw <targets> <message>
-[01:39:01] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
-[01:39:01] [Server thread/INFO]: /time (set|add|query)
-[01:39:01] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[01:39:01] [Server thread/INFO]: /trigger <objective> [add|set]
-[01:39:01] [Server thread/INFO]: /weather (clear|rain|thunder)
-[01:39:01] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[01:39:01] [Server thread/INFO]: /jfr (start|stop)
-[01:39:01] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[01:39:01] [Server thread/INFO]: /banlist [ips|players]
-[01:39:01] [Server thread/INFO]: /ban <targets> [<reason>]
-[01:39:01] [Server thread/INFO]: /deop <targets>
-[01:39:01] [Server thread/INFO]: /op <targets>
-[01:39:01] [Server thread/INFO]: /pardon <targets>
-[01:39:01] [Server thread/INFO]: /pardon-ip <target>
-[01:39:01] [Server thread/INFO]: /perf (start|stop)
-[01:39:01] [Server thread/INFO]: /save-all [flush]
-[01:39:01] [Server thread/INFO]: /save-off
-[01:39:01] [Server thread/INFO]: /save-on
-[01:39:01] [Server thread/INFO]: /setidletimeout <minutes>
-[01:39:01] [Server thread/INFO]: /stop
-[01:39:01] [Server thread/INFO]: /transfer <hostname> [<port>]
-[01:39:01] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[01:39:59] [Server thread/INFO]: [Not Secure] [Server] borra la cuenta porfavor
-[01:40:59] [Server thread/INFO]: _Sebas23_[/100.93.67.125:27572] logged in with entity id 1183 at (2799.599006214273, 70.875, -703.1612997353499)
-[01:40:59] [Server thread/INFO]: _Sebas23_ joined the game
-[02:00:00] [Server thread/INFO]: [Not Secure] <_Sebas23_> oe
-[02:00:03] [Server thread/INFO]: [Not Secure] <chepaboy> ?
-[02:00:08] [Server thread/INFO]: [Not Secure] <_Sebas23_> lugi esta llamando xd
-[02:00:11] [Server thread/INFO]: [Not Secure] <_Sebas23_> q haras xd
-[02:00:20] [Server thread/INFO]: [Not Secure] <chepaboy> ATI noma
-[02:12:10] [Server thread/INFO]: [Not Secure] <_Sebas23_> s
-[02:12:11] [Server thread/INFO]: [Not Secure] <_Sebas23_> d
-[02:12:12] [Server thread/INFO]: [Not Secure] <_Sebas23_> dc
-[02:12:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2792, y=71, z=-653} jd{x=2795, y=71, z=-653}
-[02:12:17] [Server thread/INFO]: [Not Secure] <chepaboy> OE
-[02:12:19] [Server thread/INFO]: [Not Secure] <_Sebas23_> q
-[02:12:27] [Server thread/INFO]: [Not Secure] <chepaboy> luiggi anda diciendo que pa jugar
-[02:12:30] [Server thread/INFO]: [Not Secure] <chepaboy> xd
-[02:12:32] [Server thread/INFO]: [Not Secure] <_Sebas23_> que cosa
-[02:12:34] [Server thread/INFO]: [Not Secure] <chepaboy> y me llamo
-[02:12:40] [Server thread/INFO]: [Not Secure] <chepaboy> fornicar
-[02:12:52] [Server thread/INFO]: [Not Secure] <_Sebas23_> gmm nose
-[02:13:06] [Server thread/INFO]: [Not Secure] <_Sebas23_> q hicises
-[02:13:10] [Server thread/INFO]: [Not Secure] <_Sebas23_> mienta np estaba
-[02:13:18] [Server thread/INFO]: [Not Secure] <_Sebas23_> z
-[02:13:18] [Server thread/INFO]: [Not Secure] <_Sebas23_> z
-[02:13:18] [Server thread/INFO]: [Not Secure] <_Sebas23_> z
-[02:13:18] [Server thread/INFO]: [Not Secure] <_Sebas23_> z
-[02:13:18] [Server thread/INFO]: [Not Secure] <_Sebas23_> z
-[02:13:18] [Server thread/INFO]: [Not Secure] <_Sebas23_> z
-[02:13:19] [Server thread/INFO]: [Not Secure] <_Sebas23_> zz
-[02:13:24] [Server thread/INFO]: [Not Secure] <chepaboy> arañas
-[02:14:13] [Server thread/INFO]: [Not Secure] <_Sebas23_> zzz
-[02:14:14] [Server thread/INFO]: [Not Secure] <_Sebas23_> z
-[02:14:18] [Server thread/INFO]: [Not Secure] <chepaboy> mata arañas
-[02:14:23] [Server thread/INFO]: [Not Secure] <_Sebas23_> pahonmys
-[02:14:26] [Server thread/INFO]: [Not Secure] <_Sebas23_> pahtons
-[02:14:27] [Server thread/INFO]: [Not Secure] <chepaboy> o
-[02:14:33] [Server thread/INFO]: [Not Secure] <_Sebas23_> oq
-[02:16:57] [Server thread/INFO]: [Not Secure] <_Sebas23_> baby te habla ousi
-[02:18:11] [Server thread/INFO]: [Not Secure] <chepaboy> dcd
-[02:18:11] [Server thread/INFO]: [Not Secure] <chepaboy> d
-[02:18:12] [Server thread/INFO]: [Not Secure] <chepaboy> dcdt
-[02:18:13] [Server thread/INFO]: [Not Secure] <chepaboy> d
-[02:18:13] [Server thread/INFO]: [Not Secure] <chepaboy> c
-[02:18:18] [Server thread/INFO]: [Not Secure] <chepaboy> t
-[02:18:18] [Server thread/INFO]: [Not Secure] <chepaboy> tcd
-[02:18:18] [Server thread/INFO]: [Not Secure] <chepaboy> t
-[02:18:19] [Server thread/INFO]: [Not Secure] <chepaboy> tcd
-[02:18:20] [Server thread/INFO]: [Not Secure] <chepaboy> d
-[02:18:20] [Server thread/INFO]: [Not Secure] <chepaboy> d
-[02:18:24] [Server thread/INFO]: [Not Secure] <_Sebas23_> kiki tiene el body como un museo en bellakao
-[02:34:01] [Server thread/INFO]: Villager cmk['Librarian'/108, l='ServerLevel[world]', x=2787.48, y=70.19, z=-698.90] died, message: 'Librarian was slain by Zombie'
-[02:41:14] [Server thread/INFO]: _Sebas23_ has made the advancement [Local Brewery]
-[02:41:29] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[02:44:48] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[02:44:48] [Server thread/INFO]: chepaboy left the game
-[02:44:56] [Server thread/INFO]: chepaboy[/100.80.73.88:55706] logged in with entity id 19512 at (2795.741840671282, 70.0, -691.7924003358995)
-[02:44:56] [Server thread/INFO]: chepaboy joined the game
-[02:46:29] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[02:46:29] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[02:46:29] [Server thread/INFO]: _Sebas23_ left the game
-[02:46:29] [Server thread/WARN]: handleDisconnection() called twice
-[02:46:37] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28022] logged in with entity id 19934 at (2777.451000399034, 70.93612497923645, -701.7860681019107)
-[02:46:37] [Server thread/INFO]: _Sebas23_ joined the game
-[02:47:20] [Server thread/WARN]: _Sebas23_ moved too quickly! -6.107195092022266,0.12026472452443215,8.095363370727796
-[02:56:13] [Server thread/INFO]: Villager cmk['Librarian'/104, l='ServerLevel[world]', x=2794.09, y=70.00, z=-695.99] died, message: 'Librarian was slain by Zombie'
-[02:58:09] [Server thread/INFO]: Villager cmk['Librarian'/105, l='ServerLevel[world]', x=2777.11, y=71.00, z=-681.70] died, message: 'Librarian was slain by Zombie'
-[03:04:30] [Server thread/INFO]: Villager cmk['Librarian'/24412, l='ServerLevel[world]', x=2800.59, y=70.19, z=-700.64] died, message: 'Librarian was slain by Zombie Villager'
-[03:07:33] [Server thread/INFO]: chepaboy was slain by Iron Golem
-[03:09:16] [Server thread/INFO]: [Not Secure] [Server] bro andate de la orbita espacial van a pop _Sebas23_
-[03:09:41] [Server thread/INFO]: Made _Sebas23_ a server operator
-[03:10:01] [Server thread/INFO]: [_Sebas23_: Teleported chepaboy to _Sebas23_]
-[03:10:21] [Server thread/INFO]: [_Sebas23_: Made _Sebas23_ no longer a server operator]
-[03:10:46] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[03:10:46] [Server thread/INFO]: _Sebas23_ left the game
-[03:10:54] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28284] logged in with entity id 26687 at (2805.1814185337626, 70.0, -700.0802085950052)
-[03:10:54] [Server thread/INFO]: _Sebas23_ joined the game
-[03:12:34] [Server thread/INFO]: /advancement (grant|revoke)
-[03:12:34] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[03:12:34] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[03:12:34] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[03:12:34] [Server thread/INFO]: /clear [<targets>]
-[03:12:34] [Server thread/INFO]: /clone (<begin>|from)
-[03:12:34] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[03:12:34] [Server thread/INFO]: /data (merge|get|remove|modify)
-[03:12:34] [Server thread/INFO]: /datapack (enable|disable|list)
-[03:12:34] [Server thread/INFO]: /debug (start|stop|function)
-[03:12:34] [Server thread/INFO]: /defaultgamemode <gamemode>
-[03:12:34] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[03:12:34] [Server thread/INFO]: /effect (clear|give)
-[03:12:34] [Server thread/INFO]: /me <action>
-[03:12:34] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[03:12:34] [Server thread/INFO]: /experience (add|set|query)
-[03:12:34] [Server thread/INFO]: /xp -> experience
-[03:12:34] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[03:12:34] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[03:12:34] [Server thread/INFO]: /forceload (add|remove|query)
-[03:12:34] [Server thread/INFO]: /function <name> [<arguments>|with]
-[03:12:34] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[03:12:34] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[03:12:34] [Server thread/INFO]: /give <targets> <item> [<count>]
-[03:12:34] [Server thread/INFO]: /help [<command>]
-[03:12:34] [Server thread/INFO]: /item (replace|modify)
-[03:12:34] [Server thread/INFO]: /kick <targets> [<reason>]
-[03:12:34] [Server thread/INFO]: /kill [<targets>]
-[03:12:34] [Server thread/INFO]: /list [uuids]
-[03:12:34] [Server thread/INFO]: /locate (structure|biome|poi)
-[03:12:34] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[03:12:34] [Server thread/INFO]: /msg <targets> <message>
-[03:12:34] [Server thread/INFO]: /tell -> msg
-[03:12:34] [Server thread/INFO]: /w -> msg
-[03:12:34] [Server thread/INFO]: /particle <name> [<pos>]
-[03:12:34] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[03:12:34] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[03:12:34] [Server thread/INFO]: /random (value|roll|reset)
-[03:12:34] [Server thread/INFO]: /reload
-[03:12:34] [Server thread/INFO]: /recipe (give|take)
-[03:12:34] [Server thread/INFO]: /return (<value>|fail|run)
-[03:12:34] [Server thread/INFO]: /ride <target> (mount|dismount)
-[03:12:34] [Server thread/INFO]: /say <message>
-[03:12:34] [Server thread/INFO]: /schedule (function|clear)
-[03:12:34] [Server thread/INFO]: /scoreboard (objectives|players)
-[03:12:34] [Server thread/INFO]: /seed
-[03:12:34] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[03:12:34] [Server thread/INFO]: /spawnpoint [<targets>]
-[03:12:34] [Server thread/INFO]: /setworldspawn [<pos>]
-[03:12:34] [Server thread/INFO]: /spectate [<target>]
-[03:12:34] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[03:12:34] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[03:12:34] [Server thread/INFO]: /summon <entity> [<pos>]
-[03:12:34] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[03:12:34] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[03:12:34] [Server thread/INFO]: /teammsg <message>
-[03:12:34] [Server thread/INFO]: /tm -> teammsg
-[03:12:34] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[03:12:34] [Server thread/INFO]: /tp -> teleport
-[03:12:34] [Server thread/INFO]: /tellraw <targets> <message>
-[03:12:34] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
-[03:12:34] [Server thread/INFO]: /time (set|add|query)
-[03:12:34] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[03:12:34] [Server thread/INFO]: /trigger <objective> [add|set]
-[03:12:34] [Server thread/INFO]: /weather (clear|rain|thunder)
-[03:12:34] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[03:12:34] [Server thread/INFO]: /jfr (start|stop)
-[03:12:34] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[03:12:34] [Server thread/INFO]: /banlist [ips|players]
-[03:12:34] [Server thread/INFO]: /ban <targets> [<reason>]
-[03:12:34] [Server thread/INFO]: /deop <targets>
-[03:12:34] [Server thread/INFO]: /op <targets>
-[03:12:34] [Server thread/INFO]: /pardon <targets>
-[03:12:34] [Server thread/INFO]: /pardon-ip <target>
-[03:12:34] [Server thread/INFO]: /perf (start|stop)
-[03:12:34] [Server thread/INFO]: /save-all [flush]
-[03:12:34] [Server thread/INFO]: /save-off
-[03:12:34] [Server thread/INFO]: /save-on
-[03:12:34] [Server thread/INFO]: /setidletimeout <minutes>
-[03:12:34] [Server thread/INFO]: /stop
-[03:12:34] [Server thread/INFO]: /transfer <hostname> [<port>]
-[03:12:34] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[03:14:22] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[03:15:22] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[03:15:22] [Server thread/INFO]: _Sebas23_ left the game
-[03:15:23] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28303] logged in with entity id 27691 at (2801.743687382257, 70.0, -704.8559368467181)
-[03:15:23] [Server thread/INFO]: _Sebas23_ joined the game
-[03:15:42] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:42] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:43] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:43] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:43] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:43] [Server thread/INFO]: [Not Secure] <chepaboy> zz
-[03:15:44] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:44] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:44] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:44] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:44] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:44] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:45] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:45] [Server thread/INFO]: chepaboy lost connection: Kicked for spamming
-[03:15:45] [Server thread/INFO]: chepaboy left the game
-[03:15:53] [Server thread/INFO]: chepaboy[/100.80.73.88:57781] logged in with entity id 27893 at (2818.5, 70.0, -697.5)
-[03:15:53] [Server thread/INFO]: chepaboy joined the game
-[03:15:58] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:58] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:59] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:59] [Server thread/INFO]: [Not Secure] <chepaboy> zz
-[03:15:59] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:59] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:15:59] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:16:00] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:16:01] [Server thread/INFO]: [Not Secure] <chepaboy> zz
-[03:16:02] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:16:20] [Server thread/INFO]: No player was found
-[03:16:32] [Server thread/INFO]: [Not Secure] [Server] no narvaez no rompas esa paredd
-[03:21:30] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[03:21:30] [Server thread/INFO]: _Sebas23_ left the game
-[03:21:39] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28329] logged in with entity id 29432 at (2804.3513749767335, 70.0, -703.375319619401)
-[03:21:39] [Server thread/INFO]: _Sebas23_ joined the game
-[03:29:24] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[03:29:24] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[03:29:24] [Server thread/INFO]: [Not Secure] <chepaboy> ZZ
-[03:29:25] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[03:29:25] [Server thread/INFO]: [Not Secure] <chepaboy> ZZ
-[03:29:25] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[03:29:26] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[03:29:26] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[03:29:26] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[03:29:27] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[03:29:27] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[03:29:27] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[03:29:28] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:29:28] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:29:29] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:29:29] [Server thread/INFO]: chepaboy lost connection: Kicked for spamming
-[03:29:29] [Server thread/INFO]: chepaboy left the game
-[03:29:33] [Server thread/INFO]: chepaboy[/100.80.73.88:58796] logged in with entity id 31891 at (2818.5, 70.0, -697.5)
-[03:29:33] [Server thread/INFO]: chepaboy joined the game
-[03:29:47] [Server thread/INFO]: [Not Secure] <chepaboy> zz
-[03:29:47] [Server thread/INFO]: [Not Secure] <chepaboy> ztzt
-[03:29:48] [Server thread/INFO]: [Not Secure] <chepaboy> zt
-[03:29:48] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:29:48] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:29:49] [Server thread/INFO]: [Not Secure] <chepaboy> t
-[03:29:49] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:29:49] [Server thread/INFO]: [Not Secure] <chepaboy> zt
-[03:29:50] [Server thread/INFO]: [Not Secure] <chepaboy> zt
-[03:29:50] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:29:50] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:29:50] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:29:51] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:29:51] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:29:51] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[03:29:51] [Server thread/INFO]: chepaboy lost connection: Kicked for spamming
-[03:29:51] [Server thread/INFO]: chepaboy left the game
-[03:29:57] [Server thread/INFO]: chepaboy[/100.80.73.88:58817] logged in with entity id 31995 at (2818.8029811727533, 70.0, -706.8530781402562)
-[03:29:57] [Server thread/INFO]: chepaboy joined the game
-[03:30:57] [Server thread/INFO]: Villager cmk['Villager'/15064, l='ServerLevel[world]', x=2809.84, y=70.00, z=-676.92] died, message: 'Villager was slain by chepaboy'
-[03:30:57] [Server thread/INFO]: Villager cmk['Villager'/45, l='ServerLevel[world]', x=2809.25, y=71.25, z=-675.33] died, message: 'Villager was slain by chepaboy'
-[03:30:58] [Server thread/INFO]: Villager cmk['Villager'/43, l='ServerLevel[world]', x=2809.28, y=71.17, z=-674.42] died, message: 'Villager was slain by chepaboy'
-[03:30:58] [Server thread/INFO]: Villager cmk['Villager'/30079, l='ServerLevel[world]', x=2809.33, y=70.80, z=-675.15] died, message: 'Villager was slain by chepaboy'
-[03:31:00] [Server thread/INFO]: Villager cmk['Villager'/7006, l='ServerLevel[world]', x=2809.08, y=70.00, z=-673.34] died, message: 'Villager was slain by chepaboy'
-[03:31:01] [Server thread/INFO]: Villager cmk['Villager'/18603, l='ServerLevel[world]', x=2808.18, y=70.00, z=-673.33] died, message: 'Villager was slain by chepaboy'
-[03:31:01] [Server thread/INFO]: Villager cmk['Fletcher'/49, l='ServerLevel[world]', x=2807.68, y=70.00, z=-673.76] died, message: 'Fletcher was slain by chepaboy'
-[03:31:01] [Server thread/INFO]: Villager cmk['Fletcher'/41, l='ServerLevel[world]', x=2809.20, y=70.00, z=-673.30] died, message: 'Fletcher was slain by chepaboy'
-[03:31:05] [Server thread/INFO]: Villager cmk['Villager'/48, l='ServerLevel[world]', x=2807.57, y=70.00, z=-676.98] died, message: 'Villager was slain by chepaboy'
-[03:31:05] [Server thread/INFO]: Villager cmk['Villager'/44, l='ServerLevel[world]', x=2808.75, y=71.00, z=-676.69] died, message: 'Villager was slain by chepaboy'
-[03:31:05] [Server thread/INFO]: Villager cmk['Villager'/23482, l='ServerLevel[world]', x=2807.32, y=70.00, z=-677.36] died, message: 'Villager was slain by chepaboy'
-[03:31:07] [Server thread/INFO]: Villager cmk['Villager'/12977, l='ServerLevel[world]', x=2807.70, y=70.42, z=-677.31] died, message: 'Villager was slain by chepaboy'
-[03:31:08] [Server thread/INFO]: Villager cmk['Villager'/31955, l='ServerLevel[world]', x=2809.52, y=70.54, z=-677.43] died, message: 'Villager was slain by chepaboy'
-[03:31:08] [Server thread/INFO]: Villager cmk['Villager'/46, l='ServerLevel[world]', x=2809.82, y=70.00, z=-677.39] died, message: 'Villager was slain by chepaboy'
-[03:31:08] [Server thread/INFO]: Villager cmk['Fletcher'/3191, l='ServerLevel[world]', x=2810.60, y=70.00, z=-677.32] died, message: 'Fletcher was slain by chepaboy'
-[03:31:08] [Server thread/INFO]: Villager cmk['Villager'/8516, l='ServerLevel[world]', x=2810.56, y=70.00, z=-676.36] died, message: 'Villager was slain by chepaboy'
-[03:31:08] [Server thread/INFO]: Villager cmk['Villager'/27986, l='ServerLevel[world]', x=2809.15, y=70.42, z=-677.70] died, message: 'Villager was slain by chepaboy'
-[03:31:09] [Server thread/INFO]: Villager cmk['Villager'/20455, l='ServerLevel[world]', x=2810.46, y=70.00, z=-677.28] died, message: 'Villager was slain by chepaboy'
-[03:31:11] [Server thread/INFO]: Villager cmk['Fletcher'/25909, l='ServerLevel[world]', x=2809.61, y=70.00, z=-676.28] died, message: 'Fletcher was slain by chepaboy'
-[03:31:11] [Server thread/INFO]: Villager cmk['Fletcher'/1219, l='ServerLevel[world]', x=2809.87, y=70.00, z=-675.80] died, message: 'Fletcher was slain by chepaboy'
-[03:31:14] [Server thread/INFO]: Villager cmk['Fletcher'/47, l='ServerLevel[world]', x=2807.50, y=70.00, z=-673.46] died, message: 'Fletcher was slain by chepaboy'
-[03:40:30] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[03:40:30] [Server thread/INFO]: _Sebas23_ left the game
-[03:40:31] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28422] logged in with entity id 34370 at (2793.699999988079, 70.0, -705.5568040145916)
-[03:40:31] [Server thread/INFO]: _Sebas23_ joined the game
-[03:41:16] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[03:41:16] [Server thread/INFO]: _Sebas23_ left the game
-[03:41:18] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28426] logged in with entity id 34792 at (2793.699999988079, 70.875, -705.5568040145916)
-[03:41:18] [Server thread/INFO]: _Sebas23_ joined the game
-[03:41:33] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[03:41:33] [Server thread/INFO]: _Sebas23_ left the game
-[03:41:33] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28429] logged in with entity id 34938 at (2790.8674289607334, 73.0, -703.550519499961)
-[03:41:33] [Server thread/INFO]: _Sebas23_ joined the game
-[03:43:22] [Server thread/WARN]: _Sebas23_ moved too quickly! -2.576591068995185,1.0,9.805255681125345
-[03:43:37] [Server thread/WARN]: _Sebas23_ moved too quickly! 2.0468754042613,-0.4793204573332872,-10.084637687839859
-[03:43:39] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[03:43:39] [Server thread/INFO]: _Sebas23_ left the game
-[03:43:41] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28437] logged in with entity id 36039 at (2808.1126170121934, 70.0, -694.5265369605678)
-[03:43:41] [Server thread/INFO]: _Sebas23_ joined the game
-[03:44:02] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[03:44:02] [Server thread/INFO]: _Sebas23_ left the game
-[03:44:04] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28444] logged in with entity id 36340 at (2793.459032544091, 74.0, -706.6051693080775)
-[03:44:04] [Server thread/INFO]: _Sebas23_ joined the game
-[03:44:28] [Server thread/WARN]: _Sebas23_ moved too quickly! 4.163877498760485,1.1765347236627832,-9.276057915585739
-[03:44:28] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[03:44:28] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[03:44:28] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[03:44:50] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[03:44:50] [Server thread/INFO]: _Sebas23_ left the game
-[03:44:51] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28449] logged in with entity id 36814 at (2844.145665563128, 69.79673560066871, -764.3334870924431)
-[03:44:51] [Server thread/INFO]: _Sebas23_ joined the game
-[03:45:59] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[03:45:59] [Server thread/INFO]: _Sebas23_ left the game
-[03:45:59] [Server thread/WARN]: handleDisconnection() called twice
-[03:46:00] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28464] logged in with entity id 37386 at (2792.980675786167, 70.0, -728.9217984309048)
-[03:46:00] [Server thread/INFO]: _Sebas23_ joined the game
-[03:46:49] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[03:46:49] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[03:46:49] [Server thread/INFO]: _Sebas23_ left the game
-[03:46:52] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28468] logged in with entity id 37855 at (2784.5356332078, 71.00133597911214, -693.6982615442961)
-[03:46:52] [Server thread/INFO]: _Sebas23_ joined the game
-[03:47:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2776, y=70, z=-633} jd{x=2777, y=69, z=-634}
-[03:47:41] [Server thread/WARN]: _Sebas23_ moved too quickly! 3.7755667811425155,0.41999998688697815,-9.682731807752702
-[03:47:43] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[03:47:43] [Server thread/INFO]: _Sebas23_ left the game
-[03:47:44] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28475] logged in with entity id 38289 at (2791.492699229013, 70.0, -711.3057219881331)
-[03:47:44] [Server thread/INFO]: _Sebas23_ joined the game
-[03:47:49] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[03:47:49] [Server thread/INFO]: _Sebas23_ left the game
-[03:47:57] [Server thread/INFO]: Stopping the server
-[03:47:57] [Server thread/INFO]: Stopping server
-[03:47:57] [Server thread/INFO]: Saving players
-[03:47:57] [Server thread/INFO]: Saving worlds
-[03:47:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:47:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:47:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:47:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:47:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:47:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:47:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:51:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:51:15] [ServerMain/INFO]: Loaded 1290 recipes
+[03:51:15] [ServerMain/INFO]: Loaded 1399 advancements
+[03:51:16] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:51:16] [Server thread/INFO]: Loading properties
+[03:51:16] [Server thread/INFO]: Default game type: SURVIVAL
+[03:51:16] [Server thread/INFO]: Generating keypair
+[03:51:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:51:16] [Server thread/INFO]: Using epoll channel type
+[03:51:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:51:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:51:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:51:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:51:16] [Server thread/INFO]: Preparing level "world"
+[03:51:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:51:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:51:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:51:25] [Server thread/INFO]: Time elapsed: 964 ms
+[03:51:25] [Server thread/INFO]: Done (9.398s)! For help, type "help"
+[03:52:03] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28504] logged in with entity id 21 at (2811.1384765344505, 70.0, -709.9506526365537)
+[03:52:03] [Server thread/INFO]: _Sebas23_ joined the game
+[03:52:44] [Server thread/INFO]: chepaboy[/100.80.73.88:60156] logged in with entity id 602 at (2884.318299056737, 78.0, -731.0597046028021)
+[03:52:44] [Server thread/INFO]: chepaboy joined the game
+[03:57:04] [Server thread/INFO]: [Not Secure] <_Sebas23_> dd
+[03:57:11] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[03:57:11] [Server thread/INFO]: _Sebas23_ left the game
+[03:57:13] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28539] logged in with entity id 1729 at (2799.7692995188286, 70.0, -700.6218688384736)
+[03:57:13] [Server thread/INFO]: _Sebas23_ joined the game
+[04:02:32] [Server thread/INFO]: [Not Secure] <chepaboy> pene
+[04:02:37] [Server thread/INFO]: [Not Secure] <_Sebas23_> mierda
+[04:02:40] [Server thread/INFO]: [Not Secure] <_Sebas23_> hilte
+[04:02:50] [Server thread/INFO]: [Not Secure] <chepaboy> hitler
+[04:02:53] [Server thread/INFO]: [Not Secure] <chepaboy> sexo}
+[04:17:24] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[04:17:24] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[04:17:24] [Server thread/INFO]: _Sebas23_ left the game
+[04:17:24] [Server thread/WARN]: handleDisconnection() called twice
+[04:17:26] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28781] logged in with entity id 7518 at (2820.1913434253825, 71.25220334025373, -706.3250819747835)
+[04:17:26] [Server thread/INFO]: _Sebas23_ joined the game
+[04:19:06] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[04:19:06] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[04:19:06] [Server thread/INFO]: _Sebas23_ left the game
+[04:19:06] [Server thread/WARN]: handleDisconnection() called twice
+[04:19:19] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28808] logged in with entity id 7998 at (2792.763743266689, 74.16610926093821, -704.3232291948271)
+[04:19:19] [Server thread/INFO]: _Sebas23_ joined the game
+[04:19:42] [Server thread/INFO]: Kicked chepaboy: Kicked by an operator
+[04:19:42] [Server thread/INFO]: chepaboy lost connection: Kicked by an operator
+[04:19:42] [Server thread/INFO]: chepaboy left the game
+[04:19:50] [Server thread/INFO]: chepaboy[/100.80.73.88:61946] logged in with entity id 8113 at (2795.223903027668, 70.0, -699.9770200285781)
+[04:19:50] [Server thread/INFO]: chepaboy joined the game
+[04:20:49] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[04:20:49] [Server thread/INFO]: _Sebas23_ left the game
+[04:20:56] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28833] logged in with entity id 8411 at (2826.6291616005315, 70.0, -714.6223249880705)
+[04:20:56] [Server thread/INFO]: _Sebas23_ joined the game
+[04:21:17] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[04:23:22] [Server thread/WARN]: _Sebas23_ moved too quickly! -10.169547444053478,1.2491870787446828,-1.5356471036985795
+[04:23:23] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[04:23:23] [Server thread/INFO]: _Sebas23_ left the game
+[04:23:25] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28871] logged in with entity id 8930 at (2800.616703155888, 70.0, -709.6500645680198)
+[04:23:25] [Server thread/INFO]: _Sebas23_ joined the game
+[04:24:12] [Server thread/WARN]: _Sebas23_ moved too quickly! -9.425822630613311,-0.8800391385729398,3.5527095758233145
+[04:24:12] [Server thread/INFO]: [Not Secure] <_Sebas23_> xdd
+[04:24:28] [Server thread/WARN]: _Sebas23_ moved too quickly! -6.674338863626872,1.1767592750642422,-7.554153274641067
+[04:25:17] [Server thread/WARN]: _Sebas23_ moved too quickly! -0.20328891251438108,1.5813359922251635,10.11798686366717
+[04:26:40] [Server thread/INFO]: _Sebas23_ lost connection: Timed out
+[04:26:40] [Server thread/INFO]: _Sebas23_ left the game
+[04:26:49] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28917] logged in with entity id 9753 at (2816.659287989018, 70.0, -703.9356075759471)
+[04:26:49] [Server thread/INFO]: _Sebas23_ joined the game
+[04:27:39] [Server thread/WARN]: _Sebas23_ moved too quickly! -6.332185380865212,-0.2712241076924897,-8.068516683953135
+[04:29:13] [Server thread/INFO]: [Not Secure] <_Sebas23_> [iogn
+[04:29:24] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[04:29:24] [Server thread/INFO]: _Sebas23_ left the game
+[04:29:27] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28956] logged in with entity id 10645 at (2818.492894303355, 71.0, -707.9839392116191)
+[04:29:27] [Server thread/INFO]: _Sebas23_ joined the game
+[04:31:13] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[04:31:13] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[04:31:13] [Server thread/INFO]: _Sebas23_ left the game
+[04:31:23] [Server thread/INFO]: _Sebas23_[/100.93.67.125:28981] logged in with entity id 11314 at (2825.1516344842453, 73.24918707874468, -691.2981318765513)
+[04:31:23] [Server thread/INFO]: _Sebas23_ joined the game
+[04:34:05] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[04:34:05] [Server thread/INFO]: _Sebas23_ left the game
+[04:34:05] [Server thread/INFO]: _Sebas23_[/100.93.67.125:29021] logged in with entity id 11853 at (345.7436621122092, 85.0, -104.51473685045622)
+[04:34:05] [Server thread/INFO]: _Sebas23_ joined the game
+[04:37:43] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[04:39:24] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[04:39:24] [Server thread/INFO]: _Sebas23_ left the game
+[04:39:25] [Server thread/INFO]: _Sebas23_[/100.93.67.125:29049] logged in with entity id 13370 at (2809.510374484366, 70.0, -709.6060876790725)
+[04:39:25] [Server thread/INFO]: _Sebas23_ joined the game
+[04:39:28] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[04:39:28] [Server thread/INFO]: _Sebas23_ left the game
+[04:39:32] [Server thread/INFO]: Reloading!
+[04:39:33] [Server thread/INFO]: Loaded 1290 recipes
+[04:39:33] [Server thread/INFO]: Loaded 1399 advancements
+[04:39:44] [Server thread/INFO]: _Sebas23_[/100.93.67.125:29054] logged in with entity id 13440 at (2809.852077163943, 70.0, -709.182681262025)
+[04:39:44] [Server thread/INFO]: _Sebas23_ joined the game
+[04:39:53] [Server thread/INFO]: Stopping the server
+[04:39:53] [Server thread/INFO]: Stopping server
+[04:39:53] [Server thread/INFO]: Saving players
+[04:39:53] [Server thread/INFO]: _Sebas23_ lost connection: Server closed
+[04:39:53] [Server thread/INFO]: _Sebas23_ left the game
+[04:39:53] [Server thread/INFO]: Saving worlds
+[04:39:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:39:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:39:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:39:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:39:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:39:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:39:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
