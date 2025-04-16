@@ -1,64 +1,63 @@
-[16:06:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:06:25] [ServerMain/INFO]: Loaded 1290 recipes
-[16:06:25] [ServerMain/INFO]: Loaded 1399 advancements
-[16:06:26] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[16:06:26] [Server thread/INFO]: Loading properties
-[16:06:26] [Server thread/INFO]: Default game type: SURVIVAL
-[16:06:26] [Server thread/INFO]: Generating keypair
-[16:06:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:06:26] [Server thread/INFO]: Using epoll channel type
-[16:06:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:06:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:06:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:06:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:06:26] [Server thread/INFO]: Preparing level "world"
-[16:06:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:06:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:33] [Server thread/INFO]: Time elapsed: 1238 ms
-[16:06:33] [Server thread/INFO]: Done (6.539s)! For help, type "help"
-[16:06:43] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50380] logged in with entity id 21 at (2819.2923247969584, 70.0, -767.4953230150937)
-[16:06:43] [Server thread/INFO]: _Sebas23_ joined the game
-[16:07:55] [Server thread/WARN]: _Sebas23_ moved too quickly! 1.8233760249759143,1.1661092609382138,-9.979742052131883
-[16:12:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2762, y=66, z=-709} jd{x=2761, y=65, z=-707}
-[16:12:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2759, y=68, z=-706} jd{x=2758, y=67, z=-706}
-[16:12:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2759, y=68, z=-706} jd{x=2758, y=67, z=-706}
-[16:19:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2812, y=77, z=-714} jd{x=2812, y=76, z=-715}
-[16:19:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2812, y=77, z=-714} jd{x=2812, y=76, z=-715}
-[16:19:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2812, y=77, z=-714} jd{x=2812, y=76, z=-715}
-[16:19:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2812, y=77, z=-714} jd{x=2812, y=76, z=-715}
-[16:19:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2813, y=70, z=-714} jd{x=2810, y=79, z=-717}
-[16:19:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2813, y=70, z=-714} jd{x=2810, y=79, z=-717}
-[16:19:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2810, y=77, z=-717} jd{x=2810, y=78, z=-717}
-[16:19:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2810, y=77, z=-717} jd{x=2810, y=78, z=-717}
-[16:19:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2810, y=77, z=-717} jd{x=2810, y=78, z=-717}
-[16:20:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2811, y=73, z=-716} jd{x=2811, y=71, z=-716}
-[16:20:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2811, y=73, z=-716} jd{x=2811, y=71, z=-716}
-[16:20:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2808, y=97, z=-715} jd{x=2808, y=96, z=-715}
-[16:21:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2809, y=71, z=-715} jd{x=2809, y=70, z=-715}
-[16:23:47] [Server thread/INFO]: Villager cmk['Fletcher'/158, l='ServerLevel[world]', x=2804.89, y=70.00, z=-706.20] died, message: 'Fletcher was slain by Zombie'
-[16:23:50] [Server thread/INFO]: Villager cmk['Fletcher'/159, l='ServerLevel[world]', x=2793.35, y=70.00, z=-696.49] died, message: 'Fletcher was slain by Zombie'
-[16:23:54] [Server thread/INFO]: Villager cmk['Librarian'/149, l='ServerLevel[world]', x=2790.83, y=70.00, z=-698.73] died, message: 'Librarian was slain by Zombie'
-[16:24:07] [Server thread/INFO]: Villager cmk['Librarian'/117, l='ServerLevel[world]', x=2796.89, y=70.00, z=-698.94] died, message: 'Librarian was burned to a crisp while fighting Zombie Villager'
-[16:24:15] [Server thread/INFO]: Villager cmk['Librarian'/151, l='ServerLevel[world]', x=2795.45, y=70.88, z=-704.88] died, message: 'Librarian was slain by Zombie'
-[16:24:15] [Server thread/INFO]: Villager cmk['Fletcher'/152, l='ServerLevel[world]', x=2790.45, y=70.88, z=-701.76] died, message: 'Fletcher was burned to a crisp while fighting Zombie Villager'
-[16:24:17] [Server thread/INFO]: Villager cmk['Librarian'/153, l='ServerLevel[world]', x=2804.64, y=70.00, z=-704.51] died, message: 'Librarian was burned to a crisp while fighting Zombie Villager'
-[16:24:19] [Server thread/INFO]: Villager cmk['Fletcher'/154, l='ServerLevel[world]', x=2790.47, y=70.00, z=-701.00] died, message: 'Fletcher was burned to a crisp while fighting Zombie Villager'
-[16:24:22] [Server thread/INFO]: Villager cmk['Librarian'/118, l='ServerLevel[world]', x=2790.42, y=70.88, z=-702.33] died, message: 'Librarian was slain by Zombie'
-[16:24:24] [Server thread/INFO]: Villager cmk['Librarian'/148, l='ServerLevel[world]', x=2791.73, y=70.00, z=-696.45] died, message: 'Librarian was slain by Zombie Villager'
-[16:30:53] [Server thread/INFO]: Villager cmk['Villager'/192, l='ServerLevel[world]', x=2810.89, y=70.19, z=-677.91] died, message: 'Villager suffocated in a wall'
-[16:31:25] [Server thread/INFO]: Villager cmk['Villager'/183, l='ServerLevel[world]', x=2801.62, y=72.38, z=-696.91] died, message: 'Villager suffocated in a wall'
-[16:53:05] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[16:53:05] [Server thread/INFO]: _Sebas23_ left the game
-[16:53:16] [Server thread/INFO]: Stopping the server
-[16:53:16] [Server thread/INFO]: Stopping server
-[16:53:16] [Server thread/INFO]: Saving players
-[16:53:16] [Server thread/INFO]: Saving worlds
-[16:53:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:53:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:53:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:53:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:53:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:53:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:53:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:48:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:49:01] [ServerMain/INFO]: Loaded 1290 recipes
+[21:49:01] [ServerMain/INFO]: Loaded 1399 advancements
+[21:49:02] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:49:02] [Server thread/INFO]: Loading properties
+[21:49:02] [Server thread/INFO]: Default game type: SURVIVAL
+[21:49:02] [Server thread/INFO]: Generating keypair
+[21:49:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:49:02] [Server thread/INFO]: Using epoll channel type
+[21:49:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:49:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:49:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:49:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:49:02] [Server thread/INFO]: Preparing level "world"
+[21:49:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:49:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:49:10] [Server thread/INFO]: Time elapsed: 1154 ms
+[21:49:10] [Server thread/INFO]: Done (8.284s)! For help, type "help"
+[21:49:49] [Server thread/INFO]: chepaboy[/100.80.73.88:50269] logged in with entity id 21 at (2819.833404182683, 70.0, -747.9106863843988)
+[21:49:49] [Server thread/INFO]: chepaboy joined the game
+[21:51:06] [Server thread/INFO]: [Not Secure] [Server] baby te habla ousi el de lo tema de la calle lo outfit,lacadena lo detalles y toa la ptas
+[21:51:20] [Server thread/INFO]: [Not Secure] [Server] en el yate
+[21:51:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:51:33] [Server thread/INFO]: responde oe<--[HERE]
+[21:51:37] [Server thread/INFO]: [Not Secure] [Server] responde oe
+[21:51:52] [Server thread/INFO]: [Not Secure] [Server] los diablo de llorens
+[21:52:35] [Server thread/INFO]: [Not Secure] [Server] https://youtu.be/p84-b3o9YOM?si=Iw5uMGGBXD-Bcwr7
+[21:52:39] [Server thread/INFO]: [Not Secure] [Server] no way
+[21:53:30] [Server thread/INFO]: _Sebas23_[/100.93.67.125:39370] logged in with entity id 1318 at (2814.738589181081, 70.0, -685.1131222399823)
+[21:53:30] [Server thread/INFO]: _Sebas23_ joined the game
+[21:53:49] [Server thread/INFO]: [Not Secure] <_Sebas23_> hoa no puedo dc
+[21:53:56] [Server thread/INFO]: [Not Secure] <_Sebas23_> ya mismo puedo xd
+[21:53:58] [Server thread/INFO]: [Not Secure] <chepaboy> A
+[21:54:00] [Server thread/INFO]: [Not Secure] <chepaboy> ok
+[21:54:03] [Server thread/INFO]: [Not Secure] <_Sebas23_> es que no tgo el cel
+[21:54:11] [Server thread/INFO]: [Not Secure] <_Sebas23_> tengo descargado
+[21:54:24] [Server thread/INFO]: [Not Secure] <chepaboy> bueno
+[21:55:17] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[21:56:10] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[21:56:16] [Server thread/INFO]: [Not Secure] <chepaboy> que paso??
+[21:56:49] [Server thread/INFO]: [Not Secure] <_Sebas23_> nada seme la geo
+[21:56:54] [Server thread/INFO]: [Not Secure] <chepaboy> aaaaa
+[21:56:54] [Server thread/INFO]: [Not Secure] <chepaboy> xd
+[21:57:10] [Server thread/INFO]: [Not Secure] <chepaboy> loco
+[21:57:15] [Server thread/INFO]: [Not Secure] <_Sebas23_> qç
+[21:57:17] [Server thread/INFO]: [Not Secure] <chepaboy> mira
+[21:57:23] [Server thread/INFO]: [Not Secure] <chepaboy> osea si da buena xp
+[21:57:28] [Server thread/WARN]: _Sebas23_ moved too quickly! 6.583501709624215,0.7531999805212024,-7.798236877404747
+[21:57:29] [Server thread/INFO]: [Not Secure] <_Sebas23_> aajm
+[21:57:29] [Server thread/INFO]: [Not Secure] <chepaboy> pero la quiero modificar
+[21:57:33] [Server thread/INFO]: [Not Secure] <_Sebas23_> en q
+[21:57:44] [Server thread/INFO]: [Not Secure] <chepaboy> en que estoy manes caigan
+[21:57:52] [Server thread/INFO]: [Not Secure] <_Sebas23_> a dinde xd
+[21:57:56] [Server thread/INFO]: [Not Secure] <chepaboy> y que haya una mejor sonar para matar
+[21:58:01] [Server thread/INFO]: [Not Secure] <chepaboy> abajo
+[21:58:11] [Server thread/INFO]: [Not Secure] <chepaboy> porque aqui es muy arriesgado
+[21:58:18] [Server thread/INFO]: [Not Secure] <_Sebas23_> comprendo
+[21:58:22] [Server thread/INFO]: [Not Secure] <chepaboy> ejem
+[21:58:34] [Server thread/INFO]: [Not Secure] <_Sebas23_> q quieres hacerle
+[21:58:37] [Server thread/INFO]: [Not Secure] <_Sebas23_> que quieres hacerke
+[21:58:45] [Server thread/INFO]: [Not Secure] <chepaboy> es q ya regreso
