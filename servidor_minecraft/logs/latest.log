@@ -40,3 +40,6 @@
 [04:56:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2756, y=72, z=-707} jd{x=2756, y=73, z=-708}
 [04:56:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2756, y=72, z=-707} jd{x=2755, y=73, z=-711}
 [04:56:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2756, y=72, z=-707} jd{x=2755, y=73, z=-711}
+[05:02:43] [Server thread/INFO]: chepaboy[/100.80.73.88:59859] logged in with entity id 3291 at (2818.674237554814, 70.0, -706.3493204430379)
+[05:02:43] [Server thread/INFO]: chepaboy joined the game
+[05:04:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2819, y=69, z=-708} jd{x=2819, y=70, z=-705}
