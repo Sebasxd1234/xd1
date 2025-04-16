@@ -47,3 +47,5 @@
 [16:24:19] [Server thread/INFO]: Villager cmk['Fletcher'/154, l='ServerLevel[world]', x=2790.47, y=70.00, z=-701.00] died, message: 'Fletcher was burned to a crisp while fighting Zombie Villager'
 [16:24:22] [Server thread/INFO]: Villager cmk['Librarian'/118, l='ServerLevel[world]', x=2790.42, y=70.88, z=-702.33] died, message: 'Librarian was slain by Zombie'
 [16:24:24] [Server thread/INFO]: Villager cmk['Librarian'/148, l='ServerLevel[world]', x=2791.73, y=70.00, z=-696.45] died, message: 'Librarian was slain by Zombie Villager'
+[16:30:53] [Server thread/INFO]: Villager cmk['Villager'/192, l='ServerLevel[world]', x=2810.89, y=70.19, z=-677.91] died, message: 'Villager suffocated in a wall'
+[16:31:25] [Server thread/INFO]: Villager cmk['Villager'/183, l='ServerLevel[world]', x=2801.62, y=72.38, z=-696.91] died, message: 'Villager suffocated in a wall'
