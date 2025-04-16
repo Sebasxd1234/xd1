@@ -49,3 +49,16 @@
 [16:24:24] [Server thread/INFO]: Villager cmk['Librarian'/148, l='ServerLevel[world]', x=2791.73, y=70.00, z=-696.45] died, message: 'Librarian was slain by Zombie Villager'
 [16:30:53] [Server thread/INFO]: Villager cmk['Villager'/192, l='ServerLevel[world]', x=2810.89, y=70.19, z=-677.91] died, message: 'Villager suffocated in a wall'
 [16:31:25] [Server thread/INFO]: Villager cmk['Villager'/183, l='ServerLevel[world]', x=2801.62, y=72.38, z=-696.91] died, message: 'Villager suffocated in a wall'
+[16:53:05] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[16:53:05] [Server thread/INFO]: _Sebas23_ left the game
+[16:53:16] [Server thread/INFO]: Stopping the server
+[16:53:16] [Server thread/INFO]: Stopping server
+[16:53:16] [Server thread/INFO]: Saving players
+[16:53:16] [Server thread/INFO]: Saving worlds
+[16:53:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:53:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:53:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:53:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:53:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:53:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:53:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
