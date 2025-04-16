@@ -64,3 +64,23 @@
 [05:58:44] [Server thread/INFO]: _Sebas23_ left the game
 [06:09:12] [Server thread/INFO]: _Sebas23_[/100.93.67.125:57316] logged in with entity id 24799 at (2816.8930711344588, 70.0, -704.6434053691947)
 [06:09:12] [Server thread/INFO]: _Sebas23_ joined the game
+[06:13:52] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[06:13:52] [Server thread/INFO]: chepaboy left the game
+[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2820, y=75, z=-751} jd{x=2818, y=70, z=-745}
+[06:18:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=70, z=-746} jd{x=2823, y=71, z=-693}
+[06:29:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2822, y=71, z=-716} jd{x=2822, y=70, z=-716}
+[06:29:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2822, y=71, z=-716} jd{x=2822, y=70, z=-716}
+[06:29:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2822, y=71, z=-716} jd{x=2822, y=70, z=-716}
+[06:34:10] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[06:34:10] [Server thread/INFO]: _Sebas23_ left the game
+[06:34:23] [Server thread/INFO]: Stopping the server
+[06:34:23] [Server thread/INFO]: Stopping server
+[06:34:23] [Server thread/INFO]: Saving players
+[06:34:23] [Server thread/INFO]: Saving worlds
+[06:34:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:34:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:34:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:34:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:34:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:34:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:34:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
