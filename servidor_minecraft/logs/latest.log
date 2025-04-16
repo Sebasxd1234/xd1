@@ -88,3 +88,19 @@
 [22:03:18] [Server thread/WARN]: handleDisconnection() called twice
 [22:03:25] [Server thread/INFO]: _Sebas23_[/100.93.67.125:39422] logged in with entity id 7061 at (2805.617111970036, 72.12418707874468, -702.7763895208101)
 [22:03:25] [Server thread/INFO]: _Sebas23_ joined the game
+[22:10:34] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[22:14:22] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[22:14:22] [Server thread/INFO]: _Sebas23_ left the game
+[22:15:12] [Server thread/INFO]: _Sebas23_[/100.93.67.125:39492] logged in with entity id 10578 at (2822.022580737227, 70.0, -698.7331968857267)
+[22:15:12] [Server thread/INFO]: _Sebas23_ joined the game
+[22:16:03] [Server thread/INFO]: Stopping the server
+[22:16:03] [Server thread/INFO]: Stopping server
+[22:16:03] [Server thread/INFO]: Saving players
+[22:16:03] [Server thread/INFO]: Saving worlds
+[22:16:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:16:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:16:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
