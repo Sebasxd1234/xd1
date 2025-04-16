@@ -43,3 +43,5 @@
 [05:02:43] [Server thread/INFO]: chepaboy[/100.80.73.88:59859] logged in with entity id 3291 at (2818.674237554814, 70.0, -706.3493204430379)
 [05:02:43] [Server thread/INFO]: chepaboy joined the game
 [05:04:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2819, y=69, z=-708} jd{x=2819, y=70, z=-705}
+[05:17:22] [Server thread/INFO]: chepaboy has made the advancement [Ol' Betsy]
+[05:28:33] [Server thread/INFO]: Villager cmk['Villager'/129, l='ServerLevel[world]', x=2811.35, y=70.00, z=-673.47] died, message: 'Villager was slain by Vex'
