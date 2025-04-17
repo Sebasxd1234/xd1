@@ -145,3 +145,42 @@
 [19:48:49] [Server thread/WARN]: _Sebas23_ moved too quickly! 10.015704530816492,0.0,-0.18487039979754627
 [19:51:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2699, y=53, z=-704} jd{x=2710, y=52, z=-713}
 [19:51:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2813, y=71, z=-702} jd{x=2729, y=49, z=-708}
+[19:52:02] [Server thread/WARN]: chepaboy moved too quickly! 10.169800210975154,0.506135102106235,1.7204988491785116
+[19:53:06] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[19:53:06] [Server thread/INFO]: chepaboy left the game
+[19:59:47] [Server thread/INFO]: chepaboy[/100.80.73.88:53710] logged in with entity id 31132 at (2723.9473495262223, 49.0, -703.827735716771)
+[19:59:47] [Server thread/INFO]: chepaboy joined the game
+[20:00:00] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[20:00:00] [Server thread/INFO]: _Sebas23_ left the game
+[20:00:01] [Server thread/WARN]: handleDisconnection() called twice
+[20:00:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@461c8606[id=56db795e-de34-37cb-8b8b-bb1865b429fa,name=_Sebas23_,properties={}] lost connection: Disconnected
+[20:00:03] [Server thread/INFO]: _Sebas23_[/100.93.67.125:51890] logged in with entity id 31290 at (2787.7154838991773, 71.17675927506424, -736.1644088118865)
+[20:00:03] [Server thread/INFO]: _Sebas23_ joined the game
+[20:00:11] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[20:00:11] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[20:00:11] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[20:00:11] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[20:00:11] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[20:00:21] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[20:00:28] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[20:00:28] [Server thread/INFO]: _Sebas23_ left the game
+[20:00:50] [Server thread/INFO]: chepaboy burned to death
+[20:01:19] [Server thread/INFO]: _Sebas23_[/100.93.67.125:51937] logged in with entity id 31554 at (2825.732674589458, 71.0, -695.3000000119209)
+[20:01:19] [Server thread/INFO]: _Sebas23_ joined the game
+[20:01:27] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[20:01:27] [Server thread/INFO]: _Sebas23_ left the game
+[20:01:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:01:42] [Server thread/INFO]: stopstop<--[HERE]
+[20:01:45] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[20:01:45] [Server thread/INFO]: chepaboy left the game
+[20:01:49] [Server thread/INFO]: Stopping the server
+[20:01:49] [Server thread/INFO]: Stopping server
+[20:01:49] [Server thread/INFO]: Saving players
+[20:01:49] [Server thread/INFO]: Saving worlds
+[20:01:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:01:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:01:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:01:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:01:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:01:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:01:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
