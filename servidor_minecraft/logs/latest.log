@@ -1,129 +1,46 @@
-[20:02:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:02:32] [ServerMain/INFO]: Loaded 1290 recipes
-[20:02:33] [ServerMain/INFO]: Loaded 1399 advancements
-[20:02:34] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[20:02:34] [Server thread/INFO]: Loading properties
-[20:02:34] [Server thread/INFO]: Default game type: SURVIVAL
-[20:02:34] [Server thread/INFO]: Generating keypair
-[20:02:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:02:34] [Server thread/INFO]: Using epoll channel type
-[20:02:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:02:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:02:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:02:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:02:34] [Server thread/INFO]: Preparing level "world"
-[20:02:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:02:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:02:41] [Server thread/INFO]: Time elapsed: 964 ms
-[20:02:41] [Server thread/INFO]: Done (6.987s)! For help, type "help"
-[20:02:58] [Server thread/INFO]: _Sebas23_[/100.93.67.125:51969] logged in with entity id 21 at (2826.943494096514, 72.0, -694.6368003719317)
-[20:02:58] [Server thread/INFO]: _Sebas23_ joined the game
-[20:03:01] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[20:03:08] [Server thread/INFO]: [Not Secure] <_Sebas23_> x
-[20:03:19] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[20:03:19] [Server thread/INFO]: _Sebas23_ left the game
-[20:03:20] [Server thread/INFO]: chepaboy[/100.80.73.88:53871] logged in with entity id 484 at (2819.3450868075574, 70.0, -693.5441052576153)
-[20:03:20] [Server thread/INFO]: chepaboy joined the game
-[20:03:20] [Server thread/INFO]: _Sebas23_[/100.93.67.125:51978] logged in with entity id 700 at (2807.348346080638, 73.0, -704.5727419514726)
-[20:03:20] [Server thread/INFO]: _Sebas23_ joined the game
-[20:05:28] [Server thread/WARN]: _Sebas23_ moved too quickly! 8.126887435741537,-1.127890238205481,-5.863180980474908
-[20:06:16] [Server thread/WARN]: _Sebas23_ moved too quickly! -7.199088368003231,1.0013359791121417,7.013441417744616
-[20:06:47] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[20:06:47] [Server thread/INFO]: _Sebas23_ left the game
-[20:06:51] [Server thread/INFO]: _Sebas23_[/100.93.67.125:52036] logged in with entity id 2222 at (2821.813013920417, 70.0, -705.2598025305754)
-[20:06:51] [Server thread/INFO]: _Sebas23_ joined the game
-[20:07:10] [Server thread/WARN]: _Sebas23_ moved too quickly! -8.812633698722948,-1.8322033533667508,4.930690114223694
-[20:08:16] [Server thread/WARN]: _Sebas23_ moved too quickly! 9.879665919579566,0.756759288177264,-1.6307309794415232
-[20:09:16] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[20:09:16] [Server thread/INFO]: _Sebas23_ left the game
-[20:09:16] [Server thread/INFO]: _Sebas23_[/100.93.67.125:52074] logged in with entity id 3853 at (2792.678059021263, 71.79673560066871, -620.3305664661314)
-[20:09:16] [Server thread/INFO]: _Sebas23_ joined the game
-[20:09:59] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[20:09:59] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[20:09:59] [Server thread/INFO]: _Sebas23_ left the game
-[20:10:04] [Server thread/INFO]: _Sebas23_[/100.93.67.125:52090] logged in with entity id 4166 at (2815.121036968844, 71.24918707874468, -694.4038366350795)
-[20:10:04] [Server thread/INFO]: _Sebas23_ joined the game
-[20:11:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3071, y=64, z=-274} jd{x=3070, y=62, z=-275}
-[20:12:19] [Server thread/WARN]: _Sebas23_ moved too quickly! -8.1262713685569,-1.044812420399012,6.298006164708454
-[20:19:52] [Server thread/INFO]: chepaboy was blown up by Creeper
-[20:21:10] [Server thread/WARN]: _Sebas23_ moved too quickly! 5.549594237278143,-1.5910585594942006,-8.606236267974964
-[20:24:22] [Server thread/INFO]: chepaboy tried to swim in lava
-[20:28:04] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[20:28:04] [Server thread/INFO]: _Sebas23_ left the game
-[20:36:08] [Server thread/INFO]: [Not Secure] [Server] hola
-[20:43:05] [Server thread/INFO]: [Not Secure] [Server] oe
-[20:47:58] [Server thread/INFO]: _Sebas23_[/100.93.67.125:52693] logged in with entity id 20375 at (2815.7727327179646, 70.875, -701.8556943244254)
-[20:47:58] [Server thread/INFO]: _Sebas23_ joined the game
-[20:48:03] [Server thread/INFO]: [Not Secure] <_Sebas23_> hola
-[20:48:09] [Server thread/INFO]: [Not Secure] <chepaboy> ola
-[20:48:12] [Server thread/INFO]: [Not Secure] <_Sebas23_> como vas
-[20:48:18] [Server thread/INFO]: [Not Secure] <chepaboy> mal
-[20:48:24] [Server thread/INFO]: [Not Secure] <_Sebas23_> pq
-[20:48:39] [Server thread/INFO]: [Not Secure] <_Sebas23_> fue mi culpa?
-[20:48:43] [Server thread/INFO]: [Not Secure] <chepaboy> eficiencia 5 carisimo
-[20:48:53] [Server thread/INFO]: [Not Secure] <_Sebas23_> ah estabass ahi
-[20:49:07] [Server thread/INFO]: [Not Secure] <_Sebas23_> cuento te sale?
-[20:49:13] [Server thread/INFO]: [Not Secure] <chepaboy> ya rato
-[20:49:34] [Server thread/INFO]: [Not Secure] <chepaboy> hartisimo barrdo
-[20:49:51] [Server thread/INFO]: [Not Secure] <_Sebas23_> naa
-[20:49:52] [Server thread/INFO]: [Not Secure] <_Sebas23_> dc
-[20:49:53] [Server thread/INFO]: [Not Secure] <_Sebas23_> dc
-[20:49:54] [Server thread/INFO]: [Not Secure] <_Sebas23_> dc
-[20:50:27] [Server thread/INFO]: [Not Secure] <_Sebas23_> dc
-[20:53:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3054, y=19, z=-896} jd{x=3053, y=18, z=-896}
-[20:58:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3030, y=-35, z=-948} jd{x=3029, y=-37, z=-952}
-[21:19:41] [Server thread/INFO]: [Not Secure] <_Sebas23_> lately
-[21:27:26] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[21:27:26] [Server thread/INFO]: chepaboy left the game
-[21:27:38] [Server thread/INFO]: chepaboy[/100.80.73.88:58407] logged in with entity id 38918 at (2778.6620469218724, 70.0, -708.358878422088)
-[21:27:38] [Server thread/INFO]: chepaboy joined the game
-[21:32:26] [Server thread/INFO]: Villager cmk['Mason'/14210, l='ServerLevel[world]', x=2803.78, y=70.00, z=-660.82] died, message: 'Mason was slain by Vindicator'
-[21:37:47] [Server thread/INFO]: chepaboy was slain by Vindicator
-[21:42:47] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[21:42:47] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[21:42:48] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[21:42:48] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[21:42:48] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[21:42:48] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[21:42:49] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[21:42:49] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[21:43:08] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[21:43:09] [Server thread/INFO]: [Not Secure] <chepaboy> zz
-[21:43:10] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[21:43:10] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[21:43:10] [Server thread/INFO]: [Not Secure] <chepaboy> zz
-[21:43:12] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[21:43:12] [Server thread/INFO]: [Not Secure] <chepaboy> zz
-[21:51:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2751, y=48, z=-710} jd{x=2752, y=48, z=-713}
-[21:51:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2748, y=48, z=-704} jd{x=2748, y=48, z=-702}
-[21:53:14] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[21:53:14] [Server thread/INFO]: chepaboy left the game
-[21:53:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2788, y=48, z=-710} jd{x=2785, y=48, z=-703}
-[21:54:14] [Server thread/INFO]: chepaboy[/100.80.73.88:59735] logged in with entity id 49285 at (2826.5531912798515, 65.0, -745.0954652614954)
-[21:54:14] [Server thread/INFO]: chepaboy joined the game
-[21:57:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2746, y=48, z=-703} jd{x=2746, y=48, z=-702}
-[22:03:27] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[22:03:27] [Server thread/INFO]: chepaboy left the game
-[22:04:44] [Server thread/INFO]: chepaboy[/100.80.73.88:60292] logged in with entity id 55337 at (2766.6350024084873, 48.0, -708.2941581461774)
-[22:04:44] [Server thread/INFO]: chepaboy joined the game
-[22:13:34] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[22:13:34] [Server thread/INFO]: _Sebas23_ left the game
-[22:14:51] [Server thread/INFO]: _Sebas23_[/100.93.67.125:53917] logged in with entity id 60118 at (2996.8104334921272, 64.0, -788.0967887666055)
-[22:14:51] [Server thread/INFO]: _Sebas23_ joined the game
-[22:15:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3002, y=69, z=-790} jd{x=3002, y=68, z=-789}
-[22:15:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3002, y=69, z=-790} jd{x=3002, y=67, z=-789}
-[22:28:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2708, y=49, z=-712} jd{x=2749, y=48, z=-712}
-[22:29:42] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[22:29:42] [Server thread/INFO]: _Sebas23_ left the game
-[22:29:57] [Server thread/INFO]: Stopping the server
-[22:29:57] [Server thread/INFO]: Stopping server
-[22:29:57] [Server thread/INFO]: Saving players
-[22:29:57] [Server thread/INFO]: Saving worlds
-[22:29:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:29:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:29:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:29:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:29:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:29:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:29:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:31:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:31:13] [ServerMain/INFO]: Loaded 1290 recipes
+[22:31:13] [ServerMain/INFO]: Loaded 1399 advancements
+[22:31:14] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:31:14] [Server thread/INFO]: Loading properties
+[22:31:14] [Server thread/INFO]: Default game type: SURVIVAL
+[22:31:14] [Server thread/INFO]: Generating keypair
+[22:31:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:31:14] [Server thread/INFO]: Using epoll channel type
+[22:31:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:31:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:31:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:31:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:31:14] [Server thread/INFO]: Preparing level "world"
+[22:31:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:31:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:31:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:31:21] [Server thread/INFO]: Time elapsed: 1070 ms
+[22:31:21] [Server thread/INFO]: Done (6.301s)! For help, type "help"
+[22:31:32] [Server thread/INFO]: _Sebas23_[/100.93.67.125:54051] logged in with entity id 21 at (2769.4499208266498, 49.0, -710.7623404382817)
+[22:31:32] [Server thread/INFO]: _Sebas23_ joined the game
+[22:32:51] [Server thread/INFO]: chepaboy[/100.80.73.88:61702] logged in with entity id 602 at (2785.1601286937585, 48.0, -703.7348189400171)
+[22:32:51] [Server thread/INFO]: chepaboy joined the game
+[22:35:01] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[22:35:01] [Server thread/INFO]: _Sebas23_ left the game
+[22:35:03] [Server thread/INFO]: _Sebas23_[/100.93.67.125:54076] logged in with entity id 1078 at (2761.897810511305, 48.0, -706.601585552387)
+[22:35:03] [Server thread/INFO]: _Sebas23_ joined the game
+[22:49:37] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[22:49:37] [Server thread/INFO]: chepaboy left the game
+[22:49:40] [Server thread/INFO]: chepaboy[/100.80.73.88:62552] logged in with entity id 4788 at (2774.699999988079, 91.0, -704.3597015593479)
+[22:49:40] [Server thread/INFO]: chepaboy joined the game
+[22:55:02] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[22:55:02] [Server thread/INFO]: _Sebas23_ left the game
+[22:55:05] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[22:55:05] [Server thread/INFO]: chepaboy left the game
+[22:55:08] [Server thread/INFO]: Stopping the server
+[22:55:08] [Server thread/INFO]: Stopping server
+[22:55:08] [Server thread/INFO]: Saving players
+[22:55:08] [Server thread/INFO]: Saving worlds
+[22:55:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:55:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:55:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:55:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:55:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:55:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:55:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
