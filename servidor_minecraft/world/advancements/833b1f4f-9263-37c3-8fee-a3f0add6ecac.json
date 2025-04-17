@@ -669,6 +669,7 @@
       "minecraft:spider": "2025-03-22 04:29:35 +0000",
       "minecraft:zombie": "2025-03-21 00:44:58 +0000",
       "minecraft:creeper": "2025-03-22 04:17:27 +0000",
+      "minecraft:wither": "2025-04-17 05:23:25 +0000",
       "minecraft:slime": "2025-04-07 01:29:41 +0000",
       "minecraft:evoker": "2025-04-14 06:50:20 +0000"
     },
@@ -3559,6 +3560,36 @@
   "minecraft:recipes/redstone/crafter": {
     "criteria": {
       "has_dropper": "2025-04-16 05:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-17 05:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-17 05:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-04-17 05:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-04-17 05:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 05:41:11 +0000"
     },
     "done": true
   },

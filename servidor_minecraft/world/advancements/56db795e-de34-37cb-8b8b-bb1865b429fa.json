@@ -322,6 +322,7 @@
       "minecraft:pillager": "2025-04-07 04:12:33 +0000",
       "minecraft:blaze": "2025-04-08 04:45:36 +0000",
       "minecraft:skeleton": "2025-03-21 01:14:59 +0000",
+      "minecraft:phantom": "2025-04-17 05:32:34 +0000",
       "minecraft:witch": "2025-04-14 06:48:41 +0000",
       "minecraft:wither_skeleton": "2025-04-08 04:47:45 +0000",
       "minecraft:ravager": "2025-04-07 21:11:06 +0000",
@@ -3771,6 +3772,30 @@
   "minecraft:recipes/redstone/crafter": {
     "criteria": {
       "has_dropper": "2025-04-16 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-17 05:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-17 05:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-04-17 05:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-04-17 05:33:02 +0000"
     },
     "done": true
   },
