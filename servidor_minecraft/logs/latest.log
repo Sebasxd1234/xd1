@@ -35,3 +35,23 @@
 [04:27:49] [Server thread/INFO]: chepaboy joined the game
 [04:27:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [04:31:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2824, y=66, z=-744} jd{x=2824, y=67, z=-743}
+[04:40:25] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[04:49:04] [Server thread/WARN]: _Sebas23_ moved too quickly! -2.4241795082352837,0.7723115124550191,9.74904485902266
+[04:49:06] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[04:49:10] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[04:49:10] [Server thread/INFO]: _Sebas23_ left the game
+[04:49:12] [Server thread/INFO]: _Sebas23_[/100.93.67.125:56963] logged in with entity id 8604 at (2820.21012937635, 70.0, -721.4360426090299)
+[04:49:12] [Server thread/INFO]: _Sebas23_ joined the game
+[04:51:52] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[04:51:52] [Server thread/INFO]: _Sebas23_ left the game
+[04:51:54] [Server thread/INFO]: _Sebas23_[/100.93.67.125:56976] logged in with entity id 9388 at (2790.81342638437, 70.875, -697.1034013084038)
+[04:51:54] [Server thread/INFO]: _Sebas23_ joined the game
+[04:59:45] [Server thread/INFO]: [Not Secure] <_Sebas23_> iqa
+[05:00:54] [Server thread/INFO]: [Not Secure] <_Sebas23_> ioe
+[05:00:57] [Server thread/INFO]: [Not Secure] <chepaboy> ??
+[05:01:22] [Server thread/INFO]: [Not Secure] <_Sebas23_> los tralalelitos dicen tralala
+[05:06:30] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:06:30] [Server thread/INFO]: _Sebas23_ left the game
+[05:06:30] [Server thread/WARN]: handleDisconnection() called twice
+[05:06:31] [Server thread/INFO]: _Sebas23_[/100.93.67.125:57042] logged in with entity id 12818 at (2825.599799477897, 66.0, -744.758803515588)
+[05:06:31] [Server thread/INFO]: _Sebas23_ joined the game
