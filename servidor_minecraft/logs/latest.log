@@ -27,3 +27,29 @@
 [19:06:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2745, y=53, z=-702} jd{x=2745, y=52, z=-703}
 [19:09:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2743, y=55, z=-702} jd{x=2744, y=55, z=-702}
 [19:10:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2736, y=55, z=-710} jd{x=2735, y=55, z=-710}
+[19:17:43] [Server thread/INFO]: Villager cmk['Villager'/55, l='ServerLevel[world]', x=2807.63, y=70.00, z=-675.07] died, message: 'Villager was slain by _Sebas23_'
+[19:17:43] [Server thread/INFO]: Villager cmk['Villager'/53, l='ServerLevel[world]', x=2808.66, y=70.00, z=-675.96] died, message: 'Villager was slain by _Sebas23_'
+[19:17:43] [Server thread/INFO]: Villager cmk['Villager'/45, l='ServerLevel[world]', x=2808.39, y=70.00, z=-676.12] died, message: 'Villager was slain by _Sebas23_'
+[19:17:44] [Server thread/INFO]: Villager cmk['Villager'/51, l='ServerLevel[world]', x=2808.21, y=70.00, z=-675.65] died, message: 'Villager was slain by _Sebas23_'
+[19:17:44] [Server thread/INFO]: Villager cmk['Villager'/41, l='ServerLevel[world]', x=2809.28, y=71.00, z=-677.13] died, message: 'Villager was slain by _Sebas23_'
+[19:17:44] [Server thread/INFO]: Villager cmk['Villager'/54, l='ServerLevel[world]', x=2808.13, y=71.25, z=-676.10] died, message: 'Villager was slain by _Sebas23_'
+[19:17:44] [Server thread/INFO]: Villager cmk['Villager'/52, l='ServerLevel[world]', x=2809.23, y=70.80, z=-676.41] died, message: 'Villager was slain by _Sebas23_'
+[19:17:44] [Server thread/INFO]: Villager cmk['Villager'/2136, l='ServerLevel[world]', x=2807.50, y=70.00, z=-676.66] died, message: 'Villager was slain by _Sebas23_'
+[19:17:45] [Server thread/INFO]: Villager cmk['Villager'/39, l='ServerLevel[world]', x=2809.40, y=71.00, z=-677.65] died, message: 'Villager was slain by _Sebas23_'
+[19:17:45] [Server thread/INFO]: Villager cmk['Villager'/47, l='ServerLevel[world]', x=2809.66, y=70.92, z=-677.38] died, message: 'Villager was slain by _Sebas23_'
+[19:17:45] [Server thread/INFO]: Villager cmk['Villager'/49, l='ServerLevel[world]', x=2810.10, y=70.00, z=-677.55] died, message: 'Villager was slain by _Sebas23_'
+[19:17:47] [Server thread/INFO]: Villager cmk['Villager'/42, l='ServerLevel[world]', x=2807.30, y=70.00, z=-677.70] died, message: 'Villager was slain by _Sebas23_'
+[19:17:48] [Server thread/INFO]: Villager cmk['Villager'/40, l='ServerLevel[world]', x=2810.40, y=70.00, z=-676.73] died, message: 'Villager was slain by _Sebas23_'
+[19:17:49] [Server thread/INFO]: Villager cmk['Villager'/38, l='ServerLevel[world]', x=2811.70, y=70.00, z=-676.62] died, message: 'Villager was slain by _Sebas23_'
+[19:17:51] [Server thread/INFO]: Villager cmk['Villager'/43, l='ServerLevel[world]', x=2809.82, y=70.00, z=-677.62] died, message: 'Villager was slain by _Sebas23_'
+[19:17:51] [Server thread/INFO]: Villager cmk['Villager'/50, l='ServerLevel[world]', x=2810.39, y=70.00, z=-676.46] died, message: 'Villager was slain by _Sebas23_'
+[19:17:54] [Server thread/INFO]: Villager cmk['Villager'/48, l='ServerLevel[world]', x=2811.45, y=70.00, z=-675.34] died, message: 'Villager was slain by _Sebas23_'
+[19:17:54] [Server thread/INFO]: Villager cmk['Villager'/44, l='ServerLevel[world]', x=2811.49, y=70.00, z=-674.46] died, message: 'Villager was slain by _Sebas23_'
+[19:17:54] [Server thread/INFO]: Villager cmk['Villager'/46, l='ServerLevel[world]', x=2811.35, y=70.00, z=-676.49] died, message: 'Villager was slain by _Sebas23_'
+[19:18:00] [Server thread/INFO]: Villager cmk['Villager'/5433, l='ServerLevel[world]', x=2807.73, y=70.00, z=-675.67] died, message: 'Villager was slain by _Sebas23_'
+[19:21:30] [Server thread/INFO]: chepaboy[/100.80.73.88:52041] logged in with entity id 12485 at (2731.0694073029267, 56.0, -710.7982305040442)
+[19:21:30] [Server thread/INFO]: chepaboy joined the game
+[19:21:37] [Server thread/INFO]: [Not Secure] <chepaboy> cd
+[19:21:38] [Server thread/INFO]: [Not Secure] <chepaboy> dc
+[19:21:39] [Server thread/INFO]: [Not Secure] <chepaboy> cd
+[19:21:40] [Server thread/INFO]: [Not Secure] <chepaboy> dvc
