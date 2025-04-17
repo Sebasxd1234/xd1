@@ -294,6 +294,7 @@
       "spider_eye": "2025-04-09 05:34:36 +0000",
       "cooked_chicken": "2025-03-21 04:36:58 +0000",
       "enchanted_golden_apple": "2025-04-14 07:03:09 +0000",
+      "potato": "2025-04-17 22:11:10 +0000",
       "cooked_salmon": "2025-03-21 03:58:52 +0000",
       "carrot": "2025-03-21 02:09:58 +0000"
     },
@@ -3796,6 +3797,18 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-04-17 05:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-04-17 20:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-04-17 20:19:55 +0000"
     },
     "done": true
   },
