@@ -55,3 +55,36 @@
 [05:06:30] [Server thread/WARN]: handleDisconnection() called twice
 [05:06:31] [Server thread/INFO]: _Sebas23_[/100.93.67.125:57042] logged in with entity id 12818 at (2825.599799477897, 66.0, -744.758803515588)
 [05:06:31] [Server thread/INFO]: _Sebas23_ joined the game
+[05:07:46] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[05:07:46] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[05:07:46] [Server thread/INFO]: _Sebas23_ left the game
+[05:07:54] [Server thread/INFO]: _Sebas23_[/100.93.67.125:57045] logged in with entity id 13142 at (2797.953458029367, 71.00133597911214, -699.7676991398878)
+[05:07:54] [Server thread/INFO]: _Sebas23_ joined the game
+[05:09:13] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:09:13] [Server thread/INFO]: _Sebas23_ left the game
+[05:09:14] [Server thread/INFO]: _Sebas23_[/100.93.67.125:57055] logged in with entity id 13523 at (2823.4782742621837, 70.1212968405392, -741.6678410254034)
+[05:09:14] [Server thread/INFO]: _Sebas23_ joined the game
+[05:10:08] [Server thread/WARN]: _Sebas23_ moved too quickly! 0.051155350798126165,0.003016261509046103,10.137022360680362
+[05:10:38] [Server thread/WARN]: _Sebas23_ moved too quickly! -8.496742357705443,4.0,4.276322736787506
+[05:11:07] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:11:07] [Server thread/INFO]: _Sebas23_ left the game
+[05:11:08] [Server thread/INFO]: _Sebas23_[/100.93.67.125:57069] logged in with entity id 14055 at (2775.8973571803467, 70.1212968405392, -730.9959222788411)
+[05:11:08] [Server thread/INFO]: _Sebas23_ joined the game
+[05:12:06] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[05:12:06] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[05:12:06] [Server thread/INFO]: _Sebas23_ left the game
+[05:12:13] [Server thread/INFO]: _Sebas23_[/100.93.67.125:57070] logged in with entity id 14533 at (2818.138091320508, 72.24918707874468, -688.8108413536854)
+[05:12:13] [Server thread/INFO]: _Sebas23_ joined the game
+[05:13:24] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[05:13:24] [Server thread/INFO]: _Sebas23_ left the game
+[05:13:32] [Server thread/INFO]: Stopping the server
+[05:13:32] [Server thread/INFO]: Stopping server
+[05:13:32] [Server thread/INFO]: Saving players
+[05:13:32] [Server thread/INFO]: Saving worlds
+[05:13:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:13:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:13:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:13:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:13:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:13:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:13:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
