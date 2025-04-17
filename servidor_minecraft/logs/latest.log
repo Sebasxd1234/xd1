@@ -1,99 +1,38 @@
-[06:02:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:02:49] [ServerMain/INFO]: Loaded 1290 recipes
-[06:02:49] [ServerMain/INFO]: Loaded 1399 advancements
-[06:02:50] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[06:02:50] [Server thread/INFO]: Loading properties
-[06:02:50] [Server thread/INFO]: Default game type: SURVIVAL
-[06:02:50] [Server thread/INFO]: Generating keypair
-[06:02:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:02:50] [Server thread/INFO]: Using epoll channel type
-[06:02:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:02:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:02:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:02:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:02:50] [Server thread/INFO]: Preparing level "world"
-[06:02:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:03:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:03:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:03:00] [Server thread/INFO]: Time elapsed: 1154 ms
-[06:03:00] [Server thread/INFO]: Done (9.668s)! For help, type "help"
-[06:03:03] [Server thread/INFO]: chepaboy[/100.80.73.88:61305] logged in with entity id 21 at (2792.0896987910055, 74.0, -710.8304810741824)
-[06:03:03] [Server thread/INFO]: chepaboy joined the game
-[06:03:07] [Server thread/INFO]: _Sebas23_[/100.93.67.125:19312] logged in with entity id 285 at (2793.300000011921, 72.0, -715.0797155247128)
-[06:03:07] [Server thread/INFO]: _Sebas23_ joined the game
-[06:10:38] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[06:10:38] [Server thread/INFO]: _Sebas23_ left the game
-[06:10:44] [Server thread/INFO]: _Sebas23_[/100.93.67.125:19347] logged in with entity id 2374 at (2794.1279207919797, 70.0, -698.1490882157965)
-[06:10:44] [Server thread/INFO]: _Sebas23_ joined the game
-[06:14:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2805, y=65, z=-709} jd{x=2805, y=65, z=-704}
-[06:14:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2805, y=65, z=-709} jd{x=2805, y=65, z=-704}
-[06:15:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2802, y=60, z=-704} jd{x=2801, y=59, z=-704}
-[06:17:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2796, y=53, z=-708} jd{x=2795, y=52, z=-709}
-[06:17:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2791, y=50, z=-709} jd{x=2792, y=49, z=-708}
-[06:17:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2792, y=51, z=-707} jd{x=2793, y=50, z=-708}
-[06:17:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2790, y=51, z=-710} jd{x=2792, y=53, z=-711}
-[06:17:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2791, y=51, z=-712} jd{x=2791, y=50, z=-713}
-[06:17:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2789, y=51, z=-712} jd{x=2791, y=50, z=-713}
-[06:18:26] [Server thread/INFO]: [Not Secure] <_Sebas23_> re:zero
-[06:21:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2788, y=52, z=-702} jd{x=2789, y=51, z=-701}
-[06:21:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2792, y=50, z=-712} jd{x=2792, y=49, z=-710}
-[06:26:39] [Server thread/INFO]: [Not Secure] <_Sebas23_> hpa
-[06:26:42] [Server thread/INFO]: [Not Secure] <_Sebas23_> me esccuchas
-[06:30:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2779, y=56, z=-713} jd{x=2778, y=56, z=-713}
-[06:30:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2779, y=56, z=-713} jd{x=2778, y=56, z=-713}
-[06:30:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2779, y=56, z=-713} jd{x=2778, y=56, z=-713}
-[06:30:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2779, y=56, z=-713} jd{x=2778, y=56, z=-713}
-[06:30:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2779, y=56, z=-713} jd{x=2778, y=56, z=-713}
-[06:30:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2779, y=56, z=-713} jd{x=2778, y=56, z=-713}
-[06:30:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2779, y=56, z=-713} jd{x=2778, y=56, z=-713}
-[06:30:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2779, y=56, z=-713} jd{x=2778, y=56, z=-713}
-[06:31:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2781, y=54, z=-706} jd{x=2781, y=53, z=-706}
-[06:31:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2781, y=54, z=-706} jd{x=2781, y=53, z=-706}
-[06:31:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2781, y=54, z=-706} jd{x=2781, y=53, z=-706}
-[06:31:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2781, y=54, z=-706} jd{x=2781, y=53, z=-706}
-[06:31:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2781, y=54, z=-706} jd{x=2781, y=53, z=-706}
-[06:31:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2781, y=54, z=-706} jd{x=2781, y=53, z=-706}
-[06:31:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2781, y=54, z=-706} jd{x=2781, y=53, z=-706}
-[06:31:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2781, y=54, z=-706} jd{x=2781, y=53, z=-706}
-[06:31:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2781, y=54, z=-706} jd{x=2781, y=53, z=-706}
-[06:31:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2781, y=54, z=-706} jd{x=2781, y=53, z=-706}
-[06:31:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2781, y=54, z=-700} jd{x=2780, y=53, z=-699}
-[06:31:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2772, y=53, z=-699} jd{x=2774, y=51, z=-699}
-[06:36:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2754, y=56, z=-710} jd{x=2754, y=55, z=-699}
-[06:37:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2754, y=56, z=-710} jd{x=2758, y=55, z=-703}
-[06:37:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2783, y=57, z=-699} jd{x=2790, y=57, z=-707}
-[06:37:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2761, y=51, z=-699} jd{x=2761, y=50, z=-699}
-[06:37:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2761, y=51, z=-699} jd{x=2761, y=50, z=-699}
-[06:37:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2761, y=51, z=-699} jd{x=2761, y=50, z=-699}
-[06:37:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2761, y=51, z=-699} jd{x=2761, y=50, z=-699}
-[06:37:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2761, y=51, z=-699} jd{x=2761, y=50, z=-699}
-[06:37:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2791, y=56, z=-709} jd{x=2781, y=55, z=-714}
-[06:38:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2754, y=49, z=-710} jd{x=2751, y=49, z=-709}
-[06:39:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2751, y=51, z=-705} jd{x=2752, y=49, z=-707}
-[06:40:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2752, y=49, z=-701} jd{x=2752, y=49, z=-707}
-[06:40:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2749, y=51, z=-713} jd{x=2749, y=49, z=-706}
-[06:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2755, y=50, z=-703} jd{x=2752, y=51, z=-709}
-[06:43:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2753, y=49, z=-701} jd{x=2781, y=43, z=-703}
-[06:43:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2753, y=49, z=-701} jd{x=2781, y=43, z=-703}
-[06:43:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2753, y=49, z=-701} jd{x=2781, y=43, z=-703}
-[06:44:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2754, y=58, z=-703} jd{x=2757, y=53, z=-702}
-[06:44:29] [Server thread/INFO]: [Not Secure] <_Sebas23_> oe
-[06:44:59] [Server thread/INFO]: [Not Secure] <chepaboy> chambea mrd
-[06:45:01] [Server thread/INFO]: [Not Secure] <_Sebas23_> oe
-[06:45:05] [Server thread/INFO]: [Not Secure] <_Sebas23_> me escuchas
-[06:45:08] [Server thread/INFO]: [Not Secure] <chepaboy> ne
-[06:51:52] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[06:51:52] [Server thread/INFO]: _Sebas23_ left the game
-[06:52:02] [Server thread/INFO]: Stopping the server
-[06:52:02] [Server thread/INFO]: Stopping server
-[06:52:02] [Server thread/INFO]: Saving players
-[06:52:02] [Server thread/INFO]: chepaboy lost connection: Server closed
-[06:52:02] [Server thread/INFO]: chepaboy left the game
-[06:52:02] [Server thread/INFO]: Saving worlds
-[06:52:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:52:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:52:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:52:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:52:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:52:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:52:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:20:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:20:32] [ServerMain/INFO]: Loaded 1290 recipes
+[18:20:32] [ServerMain/INFO]: Loaded 1399 advancements
+[18:20:33] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:20:33] [Server thread/INFO]: Loading properties
+[18:20:33] [Server thread/INFO]: Default game type: SURVIVAL
+[18:20:33] [Server thread/INFO]: Generating keypair
+[18:20:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:20:34] [Server thread/INFO]: Using epoll channel type
+[18:20:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:20:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:20:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:20:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:20:34] [Server thread/INFO]: Preparing level "world"
+[18:20:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:20:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:42] [Server thread/INFO]: Time elapsed: 1013 ms
+[18:20:42] [Server thread/INFO]: Done (7.674s)! For help, type "help"
+[18:20:56] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50566] logged in with entity id 21 at (2748.387772091139, 49.0, -711.3627463283274)
+[18:20:56] [Server thread/INFO]: _Sebas23_ joined the game
+[18:23:19] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[18:25:44] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[18:27:53] [Server thread/WARN]: _Sebas23_ moved too quickly! -0.4908801291544478,-9.0,-4.376502406599684
+[18:28:38] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[18:29:33] [Server thread/INFO]: Stopping the server
+[18:29:33] [Server thread/INFO]: Stopping server
+[18:29:33] [Server thread/INFO]: Saving players
+[18:29:33] [Server thread/INFO]: _Sebas23_ lost connection: Server closed
+[18:29:33] [Server thread/INFO]: _Sebas23_ left the game
+[18:29:33] [Server thread/INFO]: Saving worlds
+[18:29:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:29:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:29:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
