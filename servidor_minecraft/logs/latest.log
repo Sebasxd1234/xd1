@@ -1,46 +1,50 @@
-[22:31:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:31:13] [ServerMain/INFO]: Loaded 1290 recipes
-[22:31:13] [ServerMain/INFO]: Loaded 1399 advancements
-[22:31:14] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[22:31:14] [Server thread/INFO]: Loading properties
-[22:31:14] [Server thread/INFO]: Default game type: SURVIVAL
-[22:31:14] [Server thread/INFO]: Generating keypair
-[22:31:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:31:14] [Server thread/INFO]: Using epoll channel type
-[22:31:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:31:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:31:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:31:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:31:14] [Server thread/INFO]: Preparing level "world"
-[22:31:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:31:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:31:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:31:21] [Server thread/INFO]: Time elapsed: 1070 ms
-[22:31:21] [Server thread/INFO]: Done (6.301s)! For help, type "help"
-[22:31:32] [Server thread/INFO]: _Sebas23_[/100.93.67.125:54051] logged in with entity id 21 at (2769.4499208266498, 49.0, -710.7623404382817)
-[22:31:32] [Server thread/INFO]: _Sebas23_ joined the game
-[22:32:51] [Server thread/INFO]: chepaboy[/100.80.73.88:61702] logged in with entity id 602 at (2785.1601286937585, 48.0, -703.7348189400171)
-[22:32:51] [Server thread/INFO]: chepaboy joined the game
-[22:35:01] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[22:35:01] [Server thread/INFO]: _Sebas23_ left the game
-[22:35:03] [Server thread/INFO]: _Sebas23_[/100.93.67.125:54076] logged in with entity id 1078 at (2761.897810511305, 48.0, -706.601585552387)
-[22:35:03] [Server thread/INFO]: _Sebas23_ joined the game
-[22:49:37] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[22:49:37] [Server thread/INFO]: chepaboy left the game
-[22:49:40] [Server thread/INFO]: chepaboy[/100.80.73.88:62552] logged in with entity id 4788 at (2774.699999988079, 91.0, -704.3597015593479)
-[22:49:40] [Server thread/INFO]: chepaboy joined the game
-[22:55:02] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[22:55:02] [Server thread/INFO]: _Sebas23_ left the game
-[22:55:05] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[22:55:05] [Server thread/INFO]: chepaboy left the game
-[22:55:08] [Server thread/INFO]: Stopping the server
-[22:55:08] [Server thread/INFO]: Stopping server
-[22:55:08] [Server thread/INFO]: Saving players
-[22:55:08] [Server thread/INFO]: Saving worlds
-[22:55:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:55:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:55:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:55:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:55:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:55:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:55:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:52:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:52:07] [ServerMain/INFO]: Loaded 1290 recipes
+[05:52:07] [ServerMain/INFO]: Loaded 1399 advancements
+[05:52:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[05:52:08] [Server thread/INFO]: Loading properties
+[05:52:08] [Server thread/INFO]: Default game type: SURVIVAL
+[05:52:08] [Server thread/INFO]: Generating keypair
+[05:52:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:52:08] [Server thread/INFO]: Using epoll channel type
+[05:52:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:52:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:52:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:52:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:52:08] [Server thread/INFO]: Preparing level "world"
+[05:52:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:52:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:52:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:52:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:52:16] [Worker-Main-1/INFO]: Preparing spawn area: 81%
+[05:52:16] [Worker-Main-1/INFO]: Preparing spawn area: 81%
+[05:52:17] [Worker-Main-1/INFO]: Preparing spawn area: 81%
+[05:52:17] [Worker-Main-1/INFO]: Preparing spawn area: 81%
+[05:52:17] [Worker-Main-1/INFO]: Preparing spawn area: 81%
+[05:52:18] [Server thread/INFO]: Time elapsed: 3685 ms
+[05:52:18] [Server thread/INFO]: Done (9.661s)! For help, type "help"
+[05:52:38] [Server thread/INFO]: _Sebas23_[/100.93.67.125:52048] logged in with entity id 21 at (2796.5724538142076, 74.0, -696.7083772960376)
+[05:52:38] [Server thread/INFO]: _Sebas23_ joined the game
+[05:53:20] [Server thread/WARN]: _Sebas23_ moved too quickly! -10.174085546114839,0.6709083839323,-0.15860356257758212
+[05:57:23] [Server thread/INFO]: chepaboy[/100.80.73.88:58395] logged in with entity id 1477 at (2773.5226457527074, 76.0, -693.6999999880791)
+[05:57:23] [Server thread/INFO]: chepaboy joined the game
+[05:58:05] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[05:58:05] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[05:58:05] [Server thread/INFO]: _Sebas23_ left the game
+[05:58:05] [Server thread/WARN]: handleDisconnection() called twice
+[05:58:09] [Server thread/INFO]: _Sebas23_[/100.93.67.125:52108] logged in with entity id 1689 at (2753.5457127742, 51.7531999805212, -711.3995645167333)
+[05:58:09] [Server thread/INFO]: _Sebas23_ joined the game
+[05:58:14] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:58:15] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:58:15] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:58:15] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:58:15] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:58:16] [Server thread/INFO]: [Not Secure] <chepaboy> zz
+[05:58:16] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:58:16] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:58:16] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:58:17] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[06:00:31] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[06:00:31] [Server thread/INFO]: _Sebas23_ left the game
+[06:00:31] [Server thread/INFO]: _Sebas23_[/100.93.67.125:52148] logged in with entity id 2254 at (2789.8063252393395, 51.495200877005914, -703.7730584593994)
+[06:00:31] [Server thread/INFO]: _Sebas23_ joined the game
