@@ -1,52 +1,117 @@
-[00:02:35] [Server thread/WARN]: chepaboy moved too quickly! 10.33767972424721,0.3693736602695168,0.0551443331878545
-[00:03:34] [Server thread/WARN]: chepaboy moved too quickly! 10.280379470914795,0.8322033533667508,-0.10044803807886638
-[00:04:43] [Server thread/INFO]: [Not Secure] <chepaboy> xd
-[00:06:31] [Server thread/WARN]: chepaboy was kicked for floating too long!
-[00:06:31] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
-[00:06:31] [Server thread/INFO]: chepaboy left the game
-[00:06:36] [Server thread/INFO]: chepaboy[/100.80.73.88:54058] logged in with entity id 12755 at (2811.025377464492, 70.7531999805212, -709.8441451174791)
-[00:06:36] [Server thread/INFO]: chepaboy joined the game
-[00:13:45] [Server thread/INFO]: [Not Secure] <_Sebas23_> no soy 2.0
-[00:21:44] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[00:21:44] [Server thread/INFO]: _Sebas23_ left the game
-[00:22:32] [Server thread/INFO]: _Sebas23_[/100.93.67.125:19883] logged in with entity id 16950 at (2772.502057518073, 49.0, -698.5187498070964)
-[00:22:32] [Server thread/INFO]: _Sebas23_ joined the game
-[00:24:14] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[00:29:39] [Server thread/INFO]: [Not Secure] <_Sebas23_> x
-[00:30:02] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[00:30:02] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[00:30:02] [Server thread/INFO]: _Sebas23_ left the game
-[00:30:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2785, y=48, z=-700} jd{x=2785, y=47, z=-700}
-[00:30:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2785, y=48, z=-700} jd{x=2785, y=47, z=-700}
-[00:30:09] [Server thread/INFO]: _Sebas23_[/100.93.67.125:19935] logged in with entity id 19052 at (2723.8344875197195, 50.166109260938214, -709.3399145048579)
-[00:30:09] [Server thread/INFO]: _Sebas23_ joined the game
-[00:31:04] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[00:31:04] [Server thread/INFO]: _Sebas23_ left the game
-[00:31:04] [Server thread/INFO]: _Sebas23_[/100.93.67.125:19946] logged in with entity id 19289 at (2729.999977023622, 52.5, -712.0519600296645)
-[00:31:04] [Server thread/INFO]: _Sebas23_ joined the game
-[00:31:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2777, y=46, z=-700} jd{x=2781, y=46, z=-700}
-[00:32:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2725, y=47, z=-700} jd{x=2725, y=48, z=-700}
-[00:33:30] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[00:33:30] [Server thread/INFO]: _Sebas23_ left the game
-[00:33:32] [Server thread/INFO]: _Sebas23_[/100.93.67.125:19964] logged in with entity id 19808 at (2782.531593529825, 55.0, -711.7003857213566)
-[00:33:32] [Server thread/INFO]: _Sebas23_ joined the game
-[00:42:09] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[00:42:09] [Server thread/INFO]: chepaboy left the game
-[00:42:14] [Server thread/INFO]: chepaboy[/100.80.73.88:55926] logged in with entity id 22200 at (2782.531927263678, 49.0, -703.5973793582084)
-[00:42:14] [Server thread/INFO]: chepaboy joined the game
-[00:42:32] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[00:42:32] [Server thread/INFO]: _Sebas23_ left the game
-[00:42:54] [Server thread/INFO]: _Sebas23_[/100.93.67.125:20079] logged in with entity id 22381 at (2768.7361591080617, 52.0, -710.6999999880791)
-[00:42:54] [Server thread/INFO]: _Sebas23_ joined the game
-[00:43:44] [Server thread/WARN]: chepaboy moved too quickly! -3.286749917932866,0.07544406518948676,9.55889743232649
-[00:44:32] [Server thread/INFO]: Stopping the server
-[00:44:32] [Server thread/INFO]: Stopping server
-[00:44:32] [Server thread/INFO]: Saving players
-[00:44:32] [Server thread/INFO]: Saving worlds
-[00:44:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:44:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:44:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:44:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:44:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:44:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:44:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:45:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:45:27] [ServerMain/INFO]: Loaded 1290 recipes
+[00:45:27] [ServerMain/INFO]: Loaded 1399 advancements
+[00:45:28] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:45:28] [Server thread/INFO]: Loading properties
+[00:45:28] [Server thread/INFO]: Default game type: SURVIVAL
+[00:45:28] [Server thread/INFO]: Generating keypair
+[00:45:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:45:28] [Server thread/INFO]: Using epoll channel type
+[00:45:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:45:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:45:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:45:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:45:28] [Server thread/INFO]: Preparing level "world"
+[00:45:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:45:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:45:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:45:37] [Server thread/INFO]: Time elapsed: 948 ms
+[00:45:37] [Server thread/INFO]: Done (9.233s)! For help, type "help"
+[00:46:43] [Server thread/INFO]: _Sebas23_[/100.93.67.125:20105] logged in with entity id 21 at (2807.9501163288755, 65.0, -704.8076496822276)
+[00:46:43] [Server thread/INFO]: _Sebas23_ joined the game
+[00:47:36] [Server thread/INFO]: chepaboy[/100.80.73.88:56250] logged in with entity id 619 at (2780.0157573735396, 49.0, -703.0485922738546)
+[00:47:36] [Server thread/INFO]: chepaboy joined the game
+[00:49:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2761, y=48, z=-703} jd{x=2761, y=47, z=-701}
+[00:49:49] [Server thread/INFO]: [Not Secure] <chepaboy> chat: JAJAJAJAJ eres muy gaycrioso
+[00:50:21] [Server thread/INFO]: [Not Secure] <chepaboy> kick: sebas89
+[00:50:35] [Server thread/INFO]: chepaboy lost connection: Kicked by an operator
+[00:50:35] [Server thread/INFO]: chepaboy left the game
+[00:50:35] [Server thread/INFO]: Kicked chepaboy: Kicked by an operator
+[00:50:35] [Server thread/WARN]: handleDisconnection() called twice
+[00:50:40] [Server thread/INFO]: chepaboy[/100.80.73.88:56392] logged in with entity id 1497 at (2746.142974477756, 49.0, -702.4041951033718)
+[00:50:40] [Server thread/INFO]: chepaboy joined the game
+[00:55:17] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[00:55:17] [Server thread/INFO]: chepaboy left the game
+[00:55:29] [Server thread/INFO]: chepaboy[/100.80.73.88:56670] logged in with entity id 3202 at (2770.6842287609866, 49.495200877005914, -705.2357569970947)
+[00:55:29] [Server thread/INFO]: chepaboy joined the game
+[00:57:26] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:57:26] [Server thread/INFO]: _Sebas23_ left the game
+[00:57:29] [Server thread/INFO]: _Sebas23_[/100.93.67.125:20197] logged in with entity id 3605 at (2760.5067705553192, 55.0, -711.7012450572373)
+[00:57:29] [Server thread/INFO]: _Sebas23_ joined the game
+[00:57:38] [Server thread/WARN]: chepaboy moved too quickly! -10.072142952405102,0.0,-0.14988576615041893
+[00:58:14] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[00:58:14] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[00:58:14] [Server thread/INFO]: _Sebas23_ left the game
+[00:58:23] [Server thread/INFO]: _Sebas23_[/100.93.67.125:20207] logged in with entity id 3892 at (2729.9670896330435, 50.00133597911215, -708.2752699385596)
+[00:58:23] [Server thread/INFO]: _Sebas23_ joined the game
+[00:58:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2785, y=50, z=-714} jd{x=2782, y=49, z=-714}
+[00:58:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2785, y=50, z=-714} jd{x=2780, y=49, z=-714}
+[00:58:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2785, y=50, z=-714} jd{x=2778, y=49, z=-714}
+[00:58:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2785, y=50, z=-714} jd{x=2776, y=49, z=-714}
+[00:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2779, y=49, z=-714} jd{x=2774, y=49, z=-714}
+[00:59:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2779, y=49, z=-714} jd{x=2770, y=49, z=-714}
+[00:59:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2779, y=49, z=-714} jd{x=2766, y=49, z=-714}
+[00:59:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2764, y=49, z=-713} jd{x=2758, y=49, z=-714}
+[00:59:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2764, y=49, z=-713} jd{x=2750, y=49, z=-714}
+[00:59:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2764, y=49, z=-713} jd{x=2750, y=49, z=-714}
+[00:59:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2764, y=49, z=-713} jd{x=2746, y=49, z=-714}
+[00:59:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2738, y=49, z=-713} jd{x=2733, y=49, z=-713}
+[01:00:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2729, y=49, z=-713} jd{x=2725, y=49, z=-713}
+[01:01:00] [Server thread/WARN]: chepaboy was kicked for floating too long!
+[01:01:00] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
+[01:01:00] [Server thread/INFO]: chepaboy left the game
+[01:01:08] [Server thread/INFO]: chepaboy[/100.80.73.88:56967] logged in with entity id 4503 at (2760.297379805799, 50.25220334025373, -706.2048928931556)
+[01:01:08] [Server thread/INFO]: chepaboy joined the game
+[01:03:19] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[01:03:19] [Server thread/INFO]: _Sebas23_ left the game
+[01:03:19] [Server thread/WARN]: handleDisconnection() called twice
+[01:03:19] [Server thread/INFO]: _Sebas23_[/100.93.67.125:20261] logged in with entity id 5062 at (2780.1483747023112, 49.0, -707.4798319150982)
+[01:03:19] [Server thread/INFO]: _Sebas23_ joined the game
+[01:05:14] [Server thread/WARN]: chepaboy moved too quickly! -6.913352341111022,-7.268476202412984,-1.4517197242752218
+[01:06:11] [Server thread/WARN]: chepaboy moved too quickly! -7.1624887784473685,-7.1552320045165985,-0.29376910958490043
+[01:06:23] [Server thread/WARN]: chepaboy moved too quickly! -7.084667865533447,-7.0,-1.797190116280035
+[01:09:47] [Server thread/WARN]: chepaboy moved too quickly! -10.064349095462603,1.1767592750642422,0.3154110652893678
+[01:11:14] [Server thread/WARN]: chepaboy moved too quickly! 10.239365381654807,0.6044241013267069,0.7942422181233724
+[01:13:17] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[01:13:17] [Server thread/INFO]: _Sebas23_ left the game
+[01:13:19] [Server thread/INFO]: _Sebas23_[/100.93.67.125:20331] logged in with entity id 8259 at (2813.8932344257346, 70.0, -705.675807305762)
+[01:13:19] [Server thread/INFO]: _Sebas23_ joined the game
+[01:14:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2784, y=47, z=-714} jd{x=2787, y=50, z=-714}
+[01:18:29] [Server thread/INFO]: [Not Secure] <chepaboy> jajaaja
+[01:19:07] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[01:19:07] [Server thread/INFO]: _Sebas23_ left the game
+[01:19:08] [Server thread/INFO]: _Sebas23_[/100.93.67.125:20370] logged in with entity id 10165 at (2821.4914017589504, 70.0, -705.3269273257605)
+[01:19:08] [Server thread/INFO]: _Sebas23_ joined the game
+[01:21:24] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[01:21:24] [Server thread/INFO]: _Sebas23_ left the game
+[01:21:25] [Server thread/INFO]: _Sebas23_[/100.93.67.125:20393] logged in with entity id 10731 at (2804.9203508102955, 62.53584062504456, -706.1116190753822)
+[01:21:25] [Server thread/INFO]: _Sebas23_ joined the game
+[01:21:38] [Server thread/WARN]: chepaboy moved too quickly! 7.083827578547243,6.5,-2.9271405529210597
+[01:22:58] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[01:22:58] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[01:22:58] [Server thread/INFO]: _Sebas23_ left the game
+[01:23:01] [Server thread/INFO]: _Sebas23_[/100.93.67.125:20401] logged in with entity id 11212 at (2730.5738128828107, 50.25220334025373, -705.0090665076696)
+[01:23:01] [Server thread/INFO]: _Sebas23_ joined the game
+[01:25:40] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[01:25:40] [Server thread/INFO]: chepaboy left the game
+[01:25:52] [Server thread/INFO]: chepaboy[/100.80.73.88:58235] logged in with entity id 12085 at (2808.5188086301937, 70.5, -710.0467659119654)
+[01:25:52] [Server thread/INFO]: chepaboy joined the game
+[01:27:27] [Server thread/WARN]: _Sebas23_ moved too quickly! -9.734752226604996,0.7491326388584127,3.0487546465716377
+[01:28:19] [Server thread/WARN]: _Sebas23_ moved too quickly! 9.752285514426148,1.1661092609382138,2.7493098621694116
+[01:29:01] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[01:29:01] [Server thread/INFO]: _Sebas23_ left the game
+[01:29:06] [Server thread/INFO]: _Sebas23_[/100.93.67.125:20496] logged in with entity id 13035 at (2806.571308627354, 73.0, -701.826820137218)
+[01:29:06] [Server thread/INFO]: _Sebas23_ joined the game
+[01:32:10] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[01:32:10] [Server thread/INFO]: chepaboy left the game
+[01:32:16] [Server thread/INFO]: Stopping the server
+[01:32:16] [Server thread/INFO]: Stopping server
+[01:32:16] [Server thread/INFO]: Saving players
+[01:32:16] [Server thread/INFO]: Saving worlds
+[01:32:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:32:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:32:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:32:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:32:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:32:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:32:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
