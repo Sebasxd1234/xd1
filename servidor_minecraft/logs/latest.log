@@ -30,3 +30,23 @@
 [00:33:30] [Server thread/INFO]: _Sebas23_ left the game
 [00:33:32] [Server thread/INFO]: _Sebas23_[/100.93.67.125:19964] logged in with entity id 19808 at (2782.531593529825, 55.0, -711.7003857213566)
 [00:33:32] [Server thread/INFO]: _Sebas23_ joined the game
+[00:42:09] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[00:42:09] [Server thread/INFO]: chepaboy left the game
+[00:42:14] [Server thread/INFO]: chepaboy[/100.80.73.88:55926] logged in with entity id 22200 at (2782.531927263678, 49.0, -703.5973793582084)
+[00:42:14] [Server thread/INFO]: chepaboy joined the game
+[00:42:32] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:42:32] [Server thread/INFO]: _Sebas23_ left the game
+[00:42:54] [Server thread/INFO]: _Sebas23_[/100.93.67.125:20079] logged in with entity id 22381 at (2768.7361591080617, 52.0, -710.6999999880791)
+[00:42:54] [Server thread/INFO]: _Sebas23_ joined the game
+[00:43:44] [Server thread/WARN]: chepaboy moved too quickly! -3.286749917932866,0.07544406518948676,9.55889743232649
+[00:44:32] [Server thread/INFO]: Stopping the server
+[00:44:32] [Server thread/INFO]: Stopping server
+[00:44:32] [Server thread/INFO]: Saving players
+[00:44:32] [Server thread/INFO]: Saving worlds
+[00:44:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:44:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:44:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:44:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:44:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:44:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:44:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
