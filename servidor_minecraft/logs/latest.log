@@ -12,3 +12,21 @@
 [00:22:32] [Server thread/INFO]: _Sebas23_[/100.93.67.125:19883] logged in with entity id 16950 at (2772.502057518073, 49.0, -698.5187498070964)
 [00:22:32] [Server thread/INFO]: _Sebas23_ joined the game
 [00:24:14] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[00:29:39] [Server thread/INFO]: [Not Secure] <_Sebas23_> x
+[00:30:02] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[00:30:02] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[00:30:02] [Server thread/INFO]: _Sebas23_ left the game
+[00:30:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2785, y=48, z=-700} jd{x=2785, y=47, z=-700}
+[00:30:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2785, y=48, z=-700} jd{x=2785, y=47, z=-700}
+[00:30:09] [Server thread/INFO]: _Sebas23_[/100.93.67.125:19935] logged in with entity id 19052 at (2723.8344875197195, 50.166109260938214, -709.3399145048579)
+[00:30:09] [Server thread/INFO]: _Sebas23_ joined the game
+[00:31:04] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[00:31:04] [Server thread/INFO]: _Sebas23_ left the game
+[00:31:04] [Server thread/INFO]: _Sebas23_[/100.93.67.125:19946] logged in with entity id 19289 at (2729.999977023622, 52.5, -712.0519600296645)
+[00:31:04] [Server thread/INFO]: _Sebas23_ joined the game
+[00:31:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2777, y=46, z=-700} jd{x=2781, y=46, z=-700}
+[00:32:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2725, y=47, z=-700} jd{x=2725, y=48, z=-700}
+[00:33:30] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:33:30] [Server thread/INFO]: _Sebas23_ left the game
+[00:33:32] [Server thread/INFO]: _Sebas23_[/100.93.67.125:19964] logged in with entity id 19808 at (2782.531593529825, 55.0, -711.7003857213566)
+[00:33:32] [Server thread/INFO]: _Sebas23_ joined the game
