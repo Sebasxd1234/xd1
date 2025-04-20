@@ -1,53 +1,40 @@
-[15:45:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:45:26] [ServerMain/INFO]: Loaded 1290 recipes
-[15:45:26] [ServerMain/INFO]: Loaded 1399 advancements
-[15:45:27] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[15:45:27] [Server thread/INFO]: Loading properties
-[15:45:27] [Server thread/INFO]: Default game type: SURVIVAL
-[15:45:27] [Server thread/INFO]: Generating keypair
-[15:45:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:45:27] [Server thread/INFO]: Using epoll channel type
-[15:45:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:45:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:45:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:45:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:45:27] [Server thread/INFO]: Preparing level "world"
-[15:45:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:45:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:45:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:45:36] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[15:45:36] [Server thread/INFO]: Time elapsed: 1155 ms
-[15:45:36] [Server thread/INFO]: Done (8.648s)! For help, type "help"
-[15:50:38] [Server thread/INFO]: chepaboy[/100.80.73.88:50152] logged in with entity id 21 at (2771.565123994063, 55.0, -700.2996031685606)
-[15:50:38] [Server thread/INFO]: chepaboy joined the game
-[15:50:52] [Server thread/WARN]: chepaboy moved too quickly! 10.218278698775975,-0.16610926093821377,-0.5941413230585795
-[15:51:18] [Server thread/WARN]: chepaboy moved too quickly! 10.016655696314956,-0.41999998688697815,-0.07500539533259598
-[15:52:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2732, y=57, z=-703} jd{x=2733, y=57, z=-704}
-[15:52:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2732, y=57, z=-703} jd{x=2733, y=57, z=-704}
-[15:52:07] [Server thread/INFO]: [Not Secure] [Server] xd
-[15:52:23] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[15:52:23] [Server thread/INFO]: chepaboy left the game
-[15:52:23] [Server thread/WARN]: handleDisconnection() called twice
-[15:52:30] [Server thread/INFO]: chepaboy[/100.80.73.88:50209] logged in with entity id 760 at (2738.5441993266054, 56.0, -701.5550414710272)
-[15:52:30] [Server thread/INFO]: chepaboy joined the game
-[15:53:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2756, y=56, z=-711} jd{x=2756, y=56, z=-710}
-[15:53:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2755, y=55, z=-711} jd{x=2756, y=55, z=-711}
-[15:54:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2745, y=55, z=-712} jd{x=2744, y=55, z=-711}
-[15:54:40] [Server thread/INFO]: [Not Secure] [Server] KHEEE 3LETRA
-[15:55:24] [Server thread/INFO]: You whisper to chepaboy: xd
-[15:55:52] [Server thread/INFO]: You whisper to chepaboy: KHEEE SI PEPE
-[15:56:45] [Server thread/INFO]: You whisper to chepaboy: borra la cuenta por favor le harias un gran favor a la sociedad 
-[15:57:05] [Server thread/WARN]: chepaboy moved too quickly! 2.451811557597921,0.8583148272754784,-9.710434759182249
-[16:01:27] [Server thread/INFO]: Stopping the server
-[16:01:27] [Server thread/INFO]: Stopping server
-[16:01:27] [Server thread/INFO]: Saving players
-[16:01:27] [Server thread/INFO]: chepaboy lost connection: Server closed
-[16:01:27] [Server thread/INFO]: chepaboy left the game
-[16:01:27] [Server thread/INFO]: Saving worlds
-[16:01:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:01:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:01:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:01:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:01:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:01:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:01:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:02:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:02:11] [ServerMain/INFO]: Loaded 1290 recipes
+[16:02:11] [ServerMain/INFO]: Loaded 1399 advancements
+[16:02:12] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:02:12] [Server thread/INFO]: Loading properties
+[16:02:12] [Server thread/INFO]: Default game type: SURVIVAL
+[16:02:12] [Server thread/INFO]: Generating keypair
+[16:02:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:02:12] [Server thread/INFO]: Using epoll channel type
+[16:02:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:02:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:02:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:02:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:02:12] [Server thread/WARN]: Failed to load white-list: 
+com.google.gson.JsonSyntaxException: Expected entry to be a JsonObject, was "_Se...3_"
+	at aye.m(SourceFile:414) ~[server-1.21.1.jar:?]
+	at auw.f(SourceFile:124) ~[server-1.21.1.jar:?]
+	at apm.C(SourceFile:109) ~[server-1.21.1.jar:?]
+	at apm.<init>(SourceFile:29) ~[server-1.21.1.jar:?]
+	at apn.e(SourceFile:175) ~[server-1.21.1.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:664) ~[server-1.21.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:281) ~[server-1.21.1.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[16:02:12] [Server thread/INFO]: Preparing level "world"
+[16:02:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:02:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:02:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:02:21] [Server thread/INFO]: Time elapsed: 1058 ms
+[16:02:21] [Server thread/INFO]: Done (8.615s)! For help, type "help"
+[16:02:41] [Server thread/INFO]: Stopping the server
+[16:02:41] [Server thread/INFO]: Stopping server
+[16:02:41] [Server thread/INFO]: Saving players
+[16:02:41] [Server thread/INFO]: Saving worlds
+[16:02:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:02:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:02:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
