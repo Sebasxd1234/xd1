@@ -64,3 +64,19 @@
 [17:20:28] [Server thread/INFO]: chepaboy[/100.80.73.88:54064] logged in with entity id 17826 at (814.244432828963, 84.0, -2.4320737468755667)
 [17:20:28] [Server thread/INFO]: chepaboy joined the game
 [17:22:29] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[17:24:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=796, y=48, z=-53} jd{x=824, y=46, z=-48}
+[17:26:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=798, y=58, z=-42} jd{x=798, y=57, z=-42}
+[17:26:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=798, y=58, z=-42} jd{x=798, y=57, z=-42}
+[17:32:22] [Server thread/INFO]: Stopping the server
+[17:32:22] [Server thread/INFO]: Stopping server
+[17:32:22] [Server thread/INFO]: Saving players
+[17:32:22] [Server thread/INFO]: chepaboy lost connection: Server closed
+[17:32:22] [Server thread/INFO]: chepaboy left the game
+[17:32:22] [Server thread/INFO]: Saving worlds
+[17:32:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:32:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:32:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
