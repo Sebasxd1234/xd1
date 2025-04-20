@@ -1,34 +1,39 @@
-[16:03:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:03:13] [ServerMain/INFO]: Loaded 1290 recipes
-[16:03:13] [ServerMain/INFO]: Loaded 1399 advancements
-[16:03:14] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[16:03:14] [Server thread/INFO]: Loading properties
-[16:03:14] [Server thread/INFO]: Default game type: SURVIVAL
-[16:03:14] [Server thread/INFO]: Generating keypair
-[16:03:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:03:14] [Server thread/INFO]: Using epoll channel type
-[16:03:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:03:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:03:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:03:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:03:14] [Server thread/INFO]: Preparing level "world"
-[16:03:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:03:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:03:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:03:21] [Server thread/INFO]: Time elapsed: 1051 ms
-[16:03:21] [Server thread/INFO]: Done (7.029s)! For help, type "help"
-[16:04:09] [Server thread/INFO]: chepaboy[/100.80.73.88:50458] logged in with entity id 21 at (2759.869093043662, 53.0, -704.8891895552092)
-[16:04:09] [Server thread/INFO]: chepaboy joined the game
-[16:12:55] [Server thread/INFO]: Stopping the server
-[16:12:55] [Server thread/INFO]: Stopping server
-[16:12:55] [Server thread/INFO]: Saving players
-[16:12:55] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[16:12:55] [Server thread/INFO]: chepaboy left the game
-[16:12:55] [Server thread/INFO]: Saving worlds
-[16:12:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:12:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:12:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:12:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:12:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:12:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:12:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:22:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:22:48] [ServerMain/INFO]: Loaded 1290 recipes
+[16:22:49] [ServerMain/INFO]: Loaded 1399 advancements
+[16:22:50] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:22:50] [Server thread/INFO]: Loading properties
+[16:22:50] [Server thread/INFO]: Default game type: SURVIVAL
+[16:22:50] [Server thread/INFO]: Generating keypair
+[16:22:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:22:51] [Server thread/INFO]: Using epoll channel type
+[16:22:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:22:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:22:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:22:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:22:51] [Server thread/INFO]: Preparing level "world"
+[16:23:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:23:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:23:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:23:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:23:03] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[16:23:04] [Worker-Main-1/INFO]: Preparing spawn area: 36%
+[16:23:04] [Server thread/INFO]: Time elapsed: 2237 ms
+[16:23:04] [Server thread/INFO]: Done (12.520s)! For help, type "help"
+[16:23:17] [Server thread/INFO]: _Sebas23_[/100.93.67.125:49931] logged in with entity id 21 at (2814.7017271176933, 70.0, -704.3474046013848)
+[16:23:17] [Server thread/INFO]: _Sebas23_ joined the game
+[16:23:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[16:23:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3029ms or 60 ticks behind
+[16:23:59] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[16:24:06] [Server thread/INFO]: chepaboy[/100.80.73.88:51394] logged in with entity id 501 at (2774.4341742405845, 70.0, -693.91984452401)
+[16:24:06] [Server thread/INFO]: chepaboy joined the game
+[16:25:09] [Server thread/INFO]: [Not Secure] <chepaboy> _Sebas23_
+[16:25:10] [Server thread/INFO]: [Not Secure] <chepaboy> _Sebas23_
+[16:29:45] [Server thread/INFO]: [Not Secure] <_Sebas23_> lately
+[16:30:03] [Server thread/WARN]: chepaboy moved too quickly! 9.986575240287038,0.41999998688697815,0.9069257610423165
+[16:32:11] [Server thread/WARN]: chepaboy moved too quickly! -2.7939893720908913,0.7522033402537289,-9.637079615690823
+[16:33:04] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[16:36:05] [Server thread/INFO]: [Not Secure] <_Sebas23_> samary
+[16:36:06] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[16:36:16] [Server thread/INFO]: [Not Secure] <_Sebas23_> mi prima xd
+[16:39:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2789, y=49, z=-700} jd{x=2789, y=48, z=-700}
