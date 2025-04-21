@@ -167,3 +167,48 @@
 [05:34:24] [Server thread/INFO]: _Sebas23_[/100.93.67.125:31506] logged in with entity id 15451 at (2802.300000011921, 65.0, -715.3937418978242)
 [05:34:24] [Server thread/INFO]: _Sebas23_ joined the game
 [05:34:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2806, y=65, z=-713} jd{x=2804, y=65, z=-715}
+[05:38:50] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:38:50] [Server thread/INFO]: _Sebas23_ left the game
+[05:38:50] [Server thread/INFO]: _Sebas23_[/100.93.67.125:31533] logged in with entity id 18704 at (2805.3742800598543, 71.0, -717.3000000119209)
+[05:38:50] [Server thread/INFO]: _Sebas23_ joined the game
+[05:39:52] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:39:52] [Server thread/INFO]: _Sebas23_ left the game
+[05:39:52] [Server thread/INFO]: _Sebas23_[/100.93.67.125:31539] logged in with entity id 19078 at (2808.040611405488, 71.0, -716.8607194147075)
+[05:39:52] [Server thread/INFO]: _Sebas23_ joined the game
+[05:40:40] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:40:40] [Server thread/INFO]: _Sebas23_ left the game
+[05:40:40] [Server thread/INFO]: _Sebas23_[/100.93.67.125:31542] logged in with entity id 19324 at (2802.1902913438043, 72.20000004768372, -717.692686867108)
+[05:40:40] [Server thread/INFO]: _Sebas23_ joined the game
+[05:41:02] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[05:41:02] [Server thread/INFO]: _Sebas23_ left the game
+[05:41:03] [Server thread/INFO]: _Sebas23_[/100.93.67.125:31549] logged in with entity id 19457 at (2804.569146193419, 70.0, -718.9759669422176)
+[05:41:03] [Server thread/INFO]: _Sebas23_ joined the game
+[05:42:09] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[05:42:09] [Server thread/INFO]: _Sebas23_ left the game
+[05:42:10] [Server thread/INFO]: _Sebas23_[/100.93.67.125:31559] logged in with entity id 19690 at (2805.7888003565663, 66.0, -715.0768415741443)
+[05:42:10] [Server thread/INFO]: _Sebas23_ joined the game
+[05:45:17] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:45:17] [Server thread/INFO]: _Sebas23_ left the game
+[05:45:17] [Server thread/INFO]: _Sebas23_[/100.93.67.125:31577] logged in with entity id 21234 at (2803.433825899631, 66.0, -715.5660291419675)
+[05:45:17] [Server thread/INFO]: _Sebas23_ joined the game
+[05:45:36] [Server thread/WARN]: _Sebas23_ moved too quickly! 8.962680726499457,0.1754232959521005,4.629525885166231
+[05:46:20] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[05:46:20] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[05:46:20] [Server thread/INFO]: _Sebas23_ left the game
+[05:46:25] [Server thread/INFO]: _Sebas23_[/100.93.67.125:31581] logged in with entity id 22114 at (2818.1723813120657, 71.25220334025373, -707.0057375771477)
+[05:46:25] [Server thread/INFO]: _Sebas23_ joined the game
+[05:46:31] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[05:46:31] [Server thread/INFO]: _Sebas23_ left the game
+[05:46:38] [Server thread/INFO]: Stopping the server
+[05:46:38] [Server thread/INFO]: Stopping server
+[05:46:38] [Server thread/INFO]: Saving players
+[05:46:38] [Server thread/INFO]: chepaboy lost connection: Server closed
+[05:46:38] [Server thread/INFO]: chepaboy left the game
+[05:46:38] [Server thread/INFO]: Saving worlds
+[05:46:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:46:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:46:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:46:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:46:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:46:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:46:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
