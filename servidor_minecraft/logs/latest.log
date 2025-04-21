@@ -1,154 +1,69 @@
-[19:02:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:02:31] [ServerMain/INFO]: Loaded 1290 recipes
-[19:02:31] [ServerMain/INFO]: Loaded 1399 advancements
-[19:02:32] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[19:02:32] [Server thread/INFO]: Loading properties
-[19:02:32] [Server thread/INFO]: Default game type: SURVIVAL
-[19:02:32] [Server thread/INFO]: Generating keypair
-[19:02:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:02:32] [Server thread/INFO]: Using epoll channel type
-[19:02:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:02:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:02:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:02:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:02:33] [Server thread/INFO]: Preparing level "world"
-[19:02:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:02:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:02:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:02:39] [Worker-Main-1/INFO]: Preparing spawn area: 73%
-[19:02:39] [Server thread/INFO]: Time elapsed: 1099 ms
-[19:02:39] [Server thread/INFO]: Done (6.527s)! For help, type "help"
-[19:02:54] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50795] logged in with entity id 21 at (2802.3078185424183, 59.0, -704.3811351913143)
-[19:02:54] [Server thread/INFO]: _Sebas23_ joined the game
-[19:03:18] [Server thread/INFO]: chepaboy[/100.80.73.88:59141] logged in with entity id 531 at (2788.8557601653074, 49.0, -703.9715429005499)
-[19:03:18] [Server thread/INFO]: chepaboy joined the game
-[19:04:08] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[19:04:08] [Server thread/INFO]: _Sebas23_ left the game
-[19:04:11] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50799] logged in with entity id 873 at (2756.7296195393023, 70.0, -724.5736501990009)
-[19:04:11] [Server thread/INFO]: _Sebas23_ joined the game
-[19:04:53] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[19:04:53] [Server thread/INFO]: _Sebas23_ left the game
-[19:04:54] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50810] logged in with entity id 1160 at (2757.946042817359, 70.0, -727.1641632211199)
-[19:04:54] [Server thread/INFO]: _Sebas23_ joined the game
-[19:20:21] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[19:20:21] [Server thread/INFO]: chepaboy left the game
-[19:20:23] [Server thread/INFO]: chepaboy[/100.80.73.88:59963] logged in with entity id 5352 at (2757.151744200473, 47.0, -698.3000000119209)
-[19:20:23] [Server thread/INFO]: chepaboy joined the game
-[19:21:50] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:21:50] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:21:50] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:21:51] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:21:51] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:21:51] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:21:52] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:21:52] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:21:53] [Server thread/INFO]: [Not Secure] <chepaboy> zz
-[19:21:53] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:21:53] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:21:53] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:21:53] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:21:54] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:21:54] [Server thread/INFO]: chepaboy lost connection: Kicked for spamming
-[19:21:54] [Server thread/INFO]: chepaboy left the game
-[19:21:54] [Server thread/WARN]: handleDisconnection() called twice
-[19:21:59] [Server thread/INFO]: chepaboy[/100.80.73.88:60046] logged in with entity id 5725 at (2818.5, 70.0, -697.5)
-[19:21:59] [Server thread/INFO]: chepaboy joined the game
-[19:22:02] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:22:02] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:22:03] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:22:03] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:22:03] [Server thread/INFO]: [Not Secure] <chepaboy> zz
-[19:22:03] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:22:03] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:22:04] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:22:04] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:22:04] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:22:04] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:22:04] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[19:22:04] [Server thread/INFO]: [Not Secure] <chepaboy> zz
-[19:22:05] [Server thread/INFO]: chepaboy lost connection: Kicked for spamming
-[19:22:05] [Server thread/INFO]: chepaboy left the game
-[19:22:08] [Server thread/INFO]: chepaboy[/100.80.73.88:60054] logged in with entity id 5738 at (2818.5, 70.0, -697.5)
-[19:22:08] [Server thread/INFO]: chepaboy joined the game
-[19:23:21] [Server thread/WARN]: chepaboy moved too quickly! 10.045716436150997,0.0,0.46948474931775763
-[19:23:51] [Server thread/WARN]: chepaboy was kicked for floating too long!
-[19:23:51] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
-[19:23:51] [Server thread/INFO]: chepaboy left the game
-[19:23:58] [Server thread/INFO]: chepaboy[/100.80.73.88:60149] logged in with entity id 6227 at (2785.0644894260636, 50.24918707874468, -705.2326164113156)
-[19:23:58] [Server thread/INFO]: chepaboy joined the game
-[19:24:35] [Server thread/INFO]: Villager cmk['Librarian'/67, l='ServerLevel[world]', x=2773.50, y=49.00, z=-699.30] died, message: 'Librarian was slain by _Sebas23_'
-[19:26:36] [Server thread/WARN]: chepaboy moved too quickly! -7.329862186331866,-6.965155803629493,-0.19152026772258068
-[19:30:16] [Server thread/WARN]: chepaboy was kicked for floating too long!
-[19:30:16] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
-[19:30:16] [Server thread/INFO]: chepaboy left the game
-[19:31:48] [Server thread/INFO]: chepaboy[/100.80.73.88:60514] logged in with entity id 8266 at (2798.995019057014, 75.00133597911214, -707.0520232699766)
-[19:31:48] [Server thread/INFO]: chepaboy joined the game
-[19:32:03] [Server thread/WARN]: chepaboy was kicked for floating too long!
-[19:32:03] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
-[19:32:03] [Server thread/INFO]: chepaboy left the game
-[19:32:11] [Server thread/INFO]: chepaboy[/100.80.73.88:60545] logged in with entity id 8472 at (2778.99054525278, 71.24918707874468, -692.5040762822532)
-[19:32:11] [Server thread/INFO]: chepaboy joined the game
-[19:33:43] [Server thread/INFO]: [Not Secure] <_Sebas23_> NOOOO
-[19:35:08] [Server thread/INFO]: [Not Secure] <_Sebas23_> re:zero
-[19:36:56] [Server thread/INFO]: [Not Secure] <_Sebas23_> JAJAJAAJAJAJJAJAJAAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJJAJHAJAJAJAJAAJAJAJAJAJAJAJAJAJAJAJAAJJAJAJAJAJAJAAJAJAJAJAJAJAKJAJJAJAJAJAJAJAAJAA
-[19:37:06] [Server thread/INFO]: [Not Secure] <chepaboy> JA
-[19:37:12] [Server thread/INFO]: [Not Secure] <_Sebas23_> JAJAJAAJAJAJJAJAJAAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJJAJHAJAJAJAJAAJAJAJAJAJAJAJAJAJAJAJAAJJAJAJAJAJAJAAJAJAJAJAJAJAKJAJJAJAJAJAJAJAAJAA
-[19:37:13] [Server thread/INFO]: [Not Secure] <_Sebas23_> JAJAJAAJAJAJJAJAJAAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJJAJHAJAJAJAJAAJAJAJAJAJAJAJAJAJAJAJAAJJAJAJAJAJAJAAJAJAJAJAJAJAKJAJJAJAJAJAJAJAAJAA
-[19:37:13] [Server thread/INFO]: [Not Secure] <_Sebas23_> JAJAJAAJAJAJJAJAJAAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJJAJHAJAJAJAJAAJAJAJAJAJAJAJAJAJAJAJAAJJAJAJAJAJAJAAJAJAJAJAJAJAKJAJJAJAJAJAJAJAAJAA
-[19:37:14] [Server thread/INFO]: [Not Secure] <_Sebas23_> JAJAJAAJAJAJJAJAJAAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJJAJHAJAJAJAJAAJAJAJAJAJAJAJAJAJAJAJAAJJAJAJAJAJAJAAJAJAJAJAJAJAKJAJJAJAJAJAJAJAAJAA
-[19:37:14] [Server thread/INFO]: [Not Secure] <_Sebas23_> JAJAJAAJAJAJJAJAJAAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJJAJHAJAJAJAJAAJAJAJAJAJAJAJAJAJAJAJAAJJAJAJAJAJAJAAJAJAJAJAJAJAKJAJJAJAJAJAJAJAAJAA
-[19:37:15] [Server thread/INFO]: [Not Secure] <_Sebas23_> JAJAJAAJAJAJJAJAJAAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJJAJHAJAJAJAJAAJAJAJAJAJAJAJAJAJAJAJAAJJAJAJAJAJAJAAJAJAJAJAJAJAKJAJJAJAJAJAJAJAAJAA
-[19:37:16] [Server thread/INFO]: [Not Secure] <_Sebas23_> JAJAJAAJAJAJJAJAJAAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJJAJHAJAJAJAJAAJAJAJAJAJAJAJAJAJAJAJAAJJAJAJAJAJAJAAJAJAJAJAJAJAKJAJJAJAJAJAJAJAAJAA
-[19:37:24] [Server thread/INFO]: [Not Secure] <chepaboy> ya chupala
-[19:37:44] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[19:37:44] [Server thread/INFO]: chepaboy left the game
-[19:37:48] [Server thread/INFO]: chepaboy[/100.80.73.88:60817] logged in with entity id 10255 at (2817.0893755004186, 70.0, -702.3788768018078)
-[19:37:48] [Server thread/INFO]: chepaboy joined the game
-[19:38:33] [Server thread/WARN]: chepaboy moved too quickly! -7.1247527167033695,-7.231523797587016,0.10939350251817359
-[19:39:11] [Server thread/WARN]: chepaboy moved too quickly! 10.098920373726287,0.0,0.2566346358125884
-[19:43:51] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[19:43:51] [Server thread/INFO]: _Sebas23_ left the game
-[19:43:54] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50950] logged in with entity id 11701 at (2778.013226385326, 49.0, -707.4319949470258)
-[19:43:54] [Server thread/INFO]: _Sebas23_ joined the game
-[19:49:30] [Server thread/INFO]: [Not Secure] <_Sebas23_> 36
-[19:49:35] [Server thread/INFO]: [Not Secure] <_Sebas23_> 36
-[19:49:35] [Server thread/INFO]: [Not Secure] <_Sebas23_> 36
-[19:49:36] [Server thread/INFO]: [Not Secure] <_Sebas23_> 36
-[19:49:37] [Server thread/INFO]: [Not Secure] <_Sebas23_> 36
-[19:49:38] [Server thread/INFO]: [Not Secure] <_Sebas23_> 36
-[19:49:39] [Server thread/INFO]: [Not Secure] <_Sebas23_> 36
-[19:49:39] [Server thread/INFO]: [Not Secure] <_Sebas23_> 36
-[19:49:41] [Server thread/INFO]: [Not Secure] <_Sebas23_> 36
-[19:49:42] [Server thread/INFO]: [Not Secure] <_Sebas23_> 36
-[19:50:01] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[19:50:01] [Server thread/INFO]: [Not Secure] <chepaboy> ZZ
-[19:50:01] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[19:50:01] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[19:50:01] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[19:50:02] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[19:50:02] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[19:50:02] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[19:50:02] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[19:50:03] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[19:50:04] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[19:50:04] [Server thread/INFO]: [Not Secure] <chepaboy> ZZ
-[19:50:25] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[19:50:25] [Server thread/INFO]: chepaboy left the game
-[19:50:29] [Server thread/INFO]: chepaboy[/100.80.73.88:61427] logged in with entity id 13694 at (2796.3146128586436, 70.0, -702.0850001040686)
-[19:50:29] [Server thread/INFO]: chepaboy joined the game
-[19:55:29] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[19:55:29] [Server thread/INFO]: chepaboy left the game
-[19:55:33] [Server thread/INFO]: chepaboy[/100.80.73.88:61680] logged in with entity id 15691 at (2812.699999988079, 69.0, -708.6999999880791)
-[19:55:33] [Server thread/INFO]: chepaboy joined the game
-[19:58:46] [Server thread/WARN]: chepaboy moved too quickly! 6.292387827239509,-4.0,-6.6915721103172245
-[20:00:23] [Server thread/INFO]: Stopping the server
-[20:00:23] [Server thread/INFO]: Stopping server
-[20:00:23] [Server thread/INFO]: Saving players
-[20:00:23] [Server thread/INFO]: Saving worlds
-[20:00:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:00:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:00:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:00:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:00:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:00:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:00:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:46:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:46:12] [ServerMain/INFO]: Loaded 1290 recipes
+[04:46:12] [ServerMain/INFO]: Loaded 1399 advancements
+[04:46:14] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[04:46:14] [Server thread/INFO]: Loading properties
+[04:46:14] [Server thread/INFO]: Default game type: SURVIVAL
+[04:46:14] [Server thread/INFO]: Generating keypair
+[04:46:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:46:14] [Server thread/INFO]: Using epoll channel type
+[04:46:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:46:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:46:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:46:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:46:14] [Server thread/INFO]: Preparing level "world"
+[04:46:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:46:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:46:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:46:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:46:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:46:30] [Server thread/INFO]: Time elapsed: 1994 ms
+[04:46:30] [Server thread/INFO]: Done (16.274s)! For help, type "help"
+[04:46:53] [Server thread/INFO]: _Sebas23_[/100.93.67.125:31232] logged in with entity id 21 at (2761.3750131121287, 49.0, -707.2529192223146)
+[04:46:53] [Server thread/INFO]: _Sebas23_ joined the game
+[04:47:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04:48:33] [Server thread/INFO]: chepaboy[/100.80.73.88:62325] logged in with entity id 778 at (2765.580099726435, 49.0, -710.128285135722)
+[04:48:33] [Server thread/INFO]: chepaboy joined the game
+[04:48:49] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[04:49:03] [Server thread/INFO]: [Not Secure] <_Sebas23_> emserio??????????????????????????????
+[04:49:06] [Server thread/INFO]: [Not Secure] <chepaboy> SE
+[04:49:56] [Server thread/INFO]: [Not Secure] <_Sebas23_> No idea
+[04:52:36] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:36] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:37] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:37] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:38] [Server thread/INFO]: [Not Secure] <chepaboy> zz
+[04:52:38] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:38] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:39] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:40] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:40] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:41] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:41] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:41] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:41] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:42] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:42] [Server thread/INFO]: [Not Secure] <chepaboy> zz
+[04:52:44] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:45] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:47] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:47] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:47] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:48] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:52:48] [Server thread/INFO]: chepaboy lost connection: Kicked for spamming
+[04:52:48] [Server thread/INFO]: chepaboy left the game
+[04:52:53] [Server thread/INFO]: chepaboy[/100.80.73.88:62572] logged in with entity id 1758 at (2818.5, 70.0, -697.5)
+[04:52:53] [Server thread/INFO]: chepaboy joined the game
+[04:53:05] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[04:53:05] [Server thread/INFO]: _Sebas23_ left the game
+[04:53:14] [Server thread/INFO]: _Sebas23_[/100.93.67.125:31269] logged in with entity id 1866 at (2819.5, 70.5625, -697.5)
+[04:53:15] [Server thread/INFO]: _Sebas23_ joined the game
+[04:53:44] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[04:53:44] [Server thread/INFO]: _Sebas23_ left the game
+[04:53:45] [Server thread/WARN]: handleDisconnection() called twice
+[04:53:45] [Server thread/INFO]: _Sebas23_[/100.93.67.125:31273] logged in with entity id 2033 at (2801.7690673728425, 70.0, -722.0734898178174)
+[04:53:45] [Server thread/INFO]: _Sebas23_ joined the game
+[04:55:08] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[04:55:08] [Server thread/INFO]: _Sebas23_ left the game
+[04:55:09] [Server thread/INFO]: _Sebas23_[/100.93.67.125:31281] logged in with entity id 2416 at (2817.1288036909996, 70.0, -707.725315912422)
+[04:55:09] [Server thread/INFO]: _Sebas23_ joined the game
