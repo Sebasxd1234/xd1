@@ -1,210 +1,97 @@
-[05:05:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:05:38] [ServerMain/INFO]: Loaded 1290 recipes
-[05:05:39] [ServerMain/INFO]: Loaded 1399 advancements
-[05:05:39] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[05:05:39] [Server thread/INFO]: Loading properties
-[05:05:39] [Server thread/INFO]: Default game type: SURVIVAL
-[05:05:39] [Server thread/INFO]: Generating keypair
-[05:05:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:05:40] [Server thread/INFO]: Using epoll channel type
-[05:05:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:05:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:05:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:05:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:05:40] [Server thread/INFO]: Preparing level "world"
-[05:05:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:05:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:05:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:05:47] [Server thread/INFO]: Time elapsed: 1054 ms
-[05:05:47] [Server thread/INFO]: Done (6.968s)! For help, type "help"
-[05:06:26] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4550] logged in with entity id 21 at (2789.1059897163923, 49.0, -704.7181961911258)
-[05:06:26] [Server thread/INFO]: _Sebas23_ joined the game
-[05:07:53] [Server thread/WARN]: _Sebas23_ moved too quickly! 9.687417085046945,1.252203340253729,3.3296333993182543
-[05:09:41] [Server thread/WARN]: _Sebas23_ moved too quickly! 7.176856159030649,7.0,1.1293414556089374
-[05:11:10] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[05:11:10] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[05:11:10] [Server thread/INFO]: _Sebas23_ left the game
-[05:11:11] [Server thread/WARN]: handleDisconnection() called twice
-[05:11:58] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4572] logged in with entity id 1418 at (2839.6806366409814, 76.24918707874468, -684.0131406452588)
-[05:11:58] [Server thread/INFO]: _Sebas23_ joined the game
-[05:13:27] [Server thread/INFO]: chepaboy[/100.80.73.88:62374] logged in with entity id 2219 at (2809.798608940872, 72.99520087700593, -681.117878742951)
-[05:13:27] [Server thread/INFO]: chepaboy joined the game
-[05:13:34] [Server thread/WARN]: chepaboy moved too quickly! -4.183397260843321,0.41999998688697815,-9.297576201305333
-[05:13:41] [Server thread/WARN]: _Sebas23_ moved too quickly! 10.133431195636149,0.2508129212553172,-0.666628069857552
-[05:14:51] [Server thread/WARN]: _Sebas23_ moved too quickly! -8.760516360131078,-5.101956950613726,-0.024919885090071148
-[05:17:33] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -7.271925763168838,-6.85553437132851,-0.5394731737669645
-[05:17:33] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -7.494266703944959,-7.145084270208265,-0.5561930463500175
-[05:17:33] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -7.712095161377874,-7.500000000000014,-0.5725738037849624
-[05:17:33] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -7.925899386048968,-7.917693075021461,-0.5886521383220042
-[05:17:33] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -8.136114799840016,-8.395677513574945,-0.6044607721109969
-[05:17:33] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -8.323584911261605,-8.906592060890901,-0.618558912130311
-[05:17:33] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -8.490770761445674,-8.906592060890901,-0.6311316337618109
-[05:17:33] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -8.580228576553054,-8.906592060890901,-0.6378590464338458
-[05:17:33] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -8.628095669820596,-8.983424062386263,-0.6414587508245404
-[05:17:33] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -8.65370839706111,-9.134045519553915,-0.6414587508245404
-[05:17:33] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -8.67654982787235,-9.35553437132851,-0.6414587508245404
-[05:17:33] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -8.696919816457012,-9.406592060890901,-0.6414587508245404
-[05:17:33] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -8.715085772800194,-9.406592060890901,-0.6414587508245404
-[05:17:49] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.3120779793212023
-[05:17:50] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.3238020637277259
-[05:17:50] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.29517665432285867
-[05:17:51] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.2989805228926343
-[05:17:51] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.29359490691058454
-[05:17:51] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.25821062963404984
-[05:17:52] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.2700247876514368
-[05:17:52] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.32947171743353465
-[05:18:48] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -10.330812740642614,0.0,0.7843224229033012
-[05:18:48] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -10.729493373643436,0.0,0.9398622522445521
-[05:18:48] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -11.138304823663475,0.0,1.0088947524060359
-[05:18:48] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -11.552537071883762,0.0,1.0316389054934234
-[05:18:48] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -11.969669881142181,0.0,1.029615086951594
-[05:18:48] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -12.38835472278106,0.0,1.0154213255621016
-[05:18:48] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -12.807870026002547,0.0,0.9936327654462502
-[05:18:48] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved too quickly! -13.227829692658815,0.0,0.9677803799557978
-[05:19:01] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.3218857031938569
-[05:19:02] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.2724773771533364
-[05:19:02] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.2541978309905062
-[05:19:02] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.2744641922881783
-[05:19:03] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.27382079429207806
-[05:19:03] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.2582694992042889
-[05:19:04] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.29476237269591365
-[05:19:04] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.324273245889799
-[05:19:04] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.26539673672095887
-[05:19:04] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.6805254322780456
-[05:19:05] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 1.0887894974134724
-[05:19:32] [Server thread/INFO]: [Not Secure] <_Sebas23_> Red Dead Redemption 2
-[05:21:06] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:21:07] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:21:08] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:21:08] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:21:09] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:21:09] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:21:10] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:21:10] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:21:11] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINEt
-[05:21:11] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINEt
-[05:21:12] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINEt
-[05:21:12] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINEt
-[05:21:25] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.26784147908165323
-[05:21:26] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.3302646251377155
-[05:21:26] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.2513964342642794
-[05:21:26] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.2524879235829758
-[05:21:27] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.28696255724435105
-[05:21:27] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.3151290820514987
-[05:21:28] [Server thread/WARN]: Skeleton Horse (vehicle of _Sebas23_) moved wrongly! 0.284254199658335
-[05:21:35] [Server thread/INFO]: [Not Secure] <chepaboy> ajajajaaj
-[05:21:53] [Server thread/INFO]: [Not Secure] <chepaboy> vro al chile salte del ,mundo
-[05:29:26] [Server thread/INFO]: [Not Secure] <chepaboy> Cz
-[05:29:27] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[05:29:27] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[05:29:27] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[05:29:27] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[05:29:27] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[05:29:27] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[05:29:28] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[05:29:34] [Server thread/INFO]: Villager cmk['Librarian'/1466, l='ServerLevel[world]', x=2785.49, y=48.00, z=-699.30] died, message: 'Librarian was slain by Yan Block'
-[05:29:36] [Server thread/INFO]: [Not Secure] <chepaboy> mami de mi vida mami de mi amor
-[05:29:52] [Server thread/INFO]: [Not Secure] <chepaboy> emprestame tu caballo
-[05:30:02] [Server thread/INFO]: [Not Secure] <chepaboy> pium pium pium piup pium
-[05:30:30] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:31] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:32] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:33] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:34] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2816, y=71, z=-730}
-[05:30:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-727} jd{x=2817, y=71, z=-727}
-[05:30:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2817, y=71, z=-727} jd{x=2817, y=71, z=-728}
-[05:30:34] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:35] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:36] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:37] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:38] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:38] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:39] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:42] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:42] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:43] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:44] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:45] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:46] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:46] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:48] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:54] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:54] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:55] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:56] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:57] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:58] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:58] [Server thread/WARN]: chepaboy moved wrongly!
-[05:30:59] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:00] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:01] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:02] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:02] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:03] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:04] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:05] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:06] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:06] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:07] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:08] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:09] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:10] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:10] [Server thread/WARN]: chepaboy moved wrongly!
-[05:31:11] [Server thread/WARN]: chepaboy moved wrongly!
-[05:34:03] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINEt
-[05:34:11] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:11] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:12] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:13] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:14] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:15] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:15] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:16] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:17] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:18] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:19] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:20] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:20] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:21] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:22] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:22] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:23] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:24] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:24] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:25] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:26] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:27] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:27] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:28] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINEt
-[05:34:30] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:33] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:34] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:35] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:36] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:36] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:37] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:34:38] [Server thread/INFO]: [Not Secure] <_Sebas23_> MADELINE
-[05:37:39] [Server thread/WARN]: chepaboy was kicked for floating too long!
-[05:37:39] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
-[05:37:39] [Server thread/INFO]: chepaboy left the game
-[05:37:39] [Server thread/WARN]: handleDisconnection() called twice
-[05:37:45] [Server thread/INFO]: chepaboy[/100.80.73.88:63577] logged in with entity id 10466 at (2815.0557920330775, 72.12418707874468, -704.7046999953005)
-[05:37:45] [Server thread/INFO]: chepaboy joined the game
-[05:39:30] [Server thread/WARN]: _Sebas23_ moved too quickly! -8.30719827297753,0.16610926093821377,-6.049443962188548
-[05:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
-[05:40:24] [Server thread/INFO]: Villager cmk['Villager'/10875, l='ServerLevel[world]', x=360.47, y=73.71, z=-77.44] died, message: 'Villager tried to swim in lava'
-[05:41:03] [Server thread/INFO]: Villager cmk['Villager'/10883, l='ServerLevel[world]', x=360.37, y=73.79, z=-76.21] died, message: 'Villager tried to swim in lava'
-[05:45:45] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[05:45:45] [Server thread/INFO]: _Sebas23_ left the game
-[05:45:51] [Server thread/INFO]: Stopping the server
-[05:45:51] [Server thread/INFO]: Stopping server
-[05:45:51] [Server thread/INFO]: Saving players
-[05:45:51] [Server thread/INFO]: Saving worlds
-[05:45:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:45:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:45:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:45:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:45:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:45:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:45:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:46:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:46:34] [ServerMain/INFO]: Loaded 1290 recipes
+[05:46:34] [ServerMain/INFO]: Loaded 1399 advancements
+[05:46:35] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[05:46:35] [Server thread/INFO]: Loading properties
+[05:46:35] [Server thread/INFO]: Default game type: SURVIVAL
+[05:46:35] [Server thread/INFO]: Generating keypair
+[05:46:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:46:35] [Server thread/INFO]: Using epoll channel type
+[05:46:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:46:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:46:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:46:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:46:35] [Server thread/INFO]: Preparing level "world"
+[05:46:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:46:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:46:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:46:45] [Server thread/INFO]: Time elapsed: 1119 ms
+[05:46:45] [Server thread/INFO]: Done (9.503s)! For help, type "help"
+[05:46:53] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4726] logged in with entity id 21 at (638.8701020867163, 56.0, -110.75778144900806)
+[05:46:53] [Server thread/INFO]: _Sebas23_ joined the game
+[05:46:59] [Server thread/INFO]: chepaboy[/100.80.73.88:64020] logged in with entity id 170 at (633.5750490392802, 51.5, -105.92668184701512)
+[05:46:59] [Server thread/INFO]: chepaboy joined the game
+[05:47:12] [Server thread/INFO]: [Not Secure] <_Sebas23_> AMISTAD
+[05:47:29] [Server thread/INFO]: [Not Secure] <_Sebas23_> ...
+[05:52:27] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:52:27] [Server thread/INFO]: _Sebas23_ left the game
+[05:52:28] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4766] logged in with entity id 1559 at (818.2294186456439, 94.0, -17.269758436279933)
+[05:52:28] [Server thread/INFO]: _Sebas23_ joined the game
+[05:54:23] [Server thread/WARN]: _Sebas23_ moved too quickly! -0.46465813936458744,1.044812420399012,-10.010635015730543
+[05:55:12] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[05:55:12] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[05:55:12] [Server thread/INFO]: _Sebas23_ left the game
+[05:55:18] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4782] logged in with entity id 2157 at (664.2704437364473, 66.25220334025373, -85.12992671201057)
+[05:55:18] [Server thread/INFO]: _Sebas23_ joined the game
+[05:56:13] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:56:13] [Server thread/INFO]: _Sebas23_ left the game
+[05:56:14] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4786] logged in with entity id 2376 at (660.5811654435039, 65.0, -82.51119053551763)
+[05:56:14] [Server thread/INFO]: _Sebas23_ joined the game
+[05:57:15] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:57:15] [Server thread/INFO]: _Sebas23_ left the game
+[05:57:15] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4793] logged in with entity id 2584 at (743.2208366752615, 57.0, -83.68514543857658)
+[05:57:15] [Server thread/INFO]: _Sebas23_ joined the game
+[05:58:38] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:58:38] [Server thread/INFO]: _Sebas23_ left the game
+[05:58:39] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4800] logged in with entity id 2898 at (672.2689074888575, 65.46634750372172, -82.2086672522164)
+[05:58:39] [Server thread/INFO]: _Sebas23_ joined the game
+[05:59:00] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:59:00] [Server thread/INFO]: _Sebas23_ left the game
+[05:59:00] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4807] logged in with entity id 2977 at (681.7366880402968, 66.5, -83.92160765095183)
+[05:59:00] [Server thread/INFO]: _Sebas23_ joined the game
+[05:59:47] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:59:47] [Server thread/INFO]: _Sebas23_ left the game
+[05:59:48] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4813] logged in with entity id 3191 at (661.1743433449241, 62.0, -48.00073968137846)
+[05:59:48] [Server thread/INFO]: _Sebas23_ joined the game
+[06:00:47] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[06:00:47] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[06:00:47] [Server thread/INFO]: _Sebas23_ left the game
+[06:00:50] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4820] logged in with entity id 3453 at (670.2402507322055, 66.24918707874468, -83.85488468223555)
+[06:00:50] [Server thread/INFO]: _Sebas23_ joined the game
+[06:03:18] [Server thread/WARN]: _Sebas23_ moved too quickly! -8.24737257368406,6.0,-0.4229804881491219
+[06:03:38] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[06:03:38] [Server thread/INFO]: _Sebas23_ left the game
+[06:03:43] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4833] logged in with entity id 3975 at (661.9256921177351, 62.466347503721714, -76.35615868816028)
+[06:03:43] [Server thread/INFO]: _Sebas23_ joined the game
+[06:04:06] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[06:04:06] [Server thread/INFO]: _Sebas23_ left the game
+[06:04:07] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4840] logged in with entity id 4041 at (663.1389111899781, 62.0, -65.38243543928465)
+[06:04:07] [Server thread/INFO]: _Sebas23_ joined the game
+[06:06:03] [Server thread/WARN]: _Sebas23_ moved too quickly! 0.4828969320460601,-0.49520087700591375,-10.158331735738514
+[06:06:27] [Server thread/WARN]: _Sebas23_ moved too quickly! -10.181427666896752,1.024424088213685,0.21071198823828752
+[06:07:33] [Server thread/WARN]: _Sebas23_ moved too quickly! 2.996508067154309,-0.756759288177264,9.611788042028905
+[06:09:03] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[06:09:03] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[06:09:03] [Server thread/INFO]: _Sebas23_ left the game
+[06:09:05] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4865] logged in with entity id 4988 at (746.9488264781713, 57.0, -93.34092647590711)
+[06:09:05] [Server thread/INFO]: _Sebas23_ joined the game
+[06:10:39] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[06:10:47] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[06:10:47] [Server thread/INFO]: _Sebas23_ left the game
+[06:10:48] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4879] logged in with entity id 5326 at (661.7139379890343, 57.0, -65.5722178080581)
+[06:10:48] [Server thread/INFO]: _Sebas23_ joined the game
+[06:20:26] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[06:20:26] [Server thread/INFO]: _Sebas23_ left the game
+[06:20:28] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[06:20:28] [Server thread/INFO]: chepaboy left the game
+[06:20:34] [Server thread/INFO]: Stopping the server
+[06:20:34] [Server thread/INFO]: Stopping server
+[06:20:34] [Server thread/INFO]: Saving players
+[06:20:34] [Server thread/INFO]: Saving worlds
+[06:20:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:20:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:20:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
