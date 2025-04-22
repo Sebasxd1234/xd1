@@ -58,3 +58,9 @@
 [03:25:06] [Server thread/INFO]: Villager cmk['Fletcher'/62, l='ServerLevel[world]', x=2809.76, y=69.94, z=-663.84] died, message: 'Fletcher was slain by _Sebas23_'
 [03:25:51] [Server thread/INFO]: Villager cmk['Leatherworker'/61, l='ServerLevel[world]', x=2841.34, y=68.00, z=-669.41] died, message: 'Leatherworker hit the ground too hard'
 [03:26:18] [Server thread/INFO]: Villager cmk['Villager'/65, l='ServerLevel[world]', x=2811.80, y=70.06, z=-674.50] died, message: 'Villager suffocated in a wall'
+[03:32:15] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[03:32:15] [Server thread/INFO]: chepaboy left the game
+[03:32:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2792, y=56, z=-706} jd{x=2793, y=56, z=-709}
+[03:32:20] [Server thread/INFO]: chepaboy[/100.80.73.88:57147] logged in with entity id 8711 at (2795.441507708724, 53.0, -706.5087047489446)
+[03:32:20] [Server thread/INFO]: chepaboy joined the game
+[03:32:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2798, y=59, z=-709} jd{x=2797, y=59, z=-710}
