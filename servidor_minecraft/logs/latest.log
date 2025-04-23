@@ -60,3 +60,19 @@
 [05:50:23] [Server thread/INFO]: _Sebas23_ left the game
 [05:50:30] [Server thread/INFO]: _Sebas23_[/100.93.67.125:63416] logged in with entity id 9380 at (2811.3342225592132, 71.25220334025373, -728.8848039672097)
 [05:50:30] [Server thread/INFO]: _Sebas23_ joined the game
+[05:52:34] [Server thread/WARN]: _Sebas23_ moved too quickly! -7.070581978030987,-7.421599998474122,-0.4831787214754968
+[05:53:39] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:53:39] [Server thread/INFO]: _Sebas23_ left the game
+[05:53:40] [Server thread/INFO]: _Sebas23_[/100.93.67.125:63436] logged in with entity id 10303 at (2814.925614559685, 71.16610926093821, -724.6999999880791)
+[05:53:40] [Server thread/INFO]: _Sebas23_ joined the game
+[05:54:46] [Server thread/INFO]: Stopping the server
+[05:54:46] [Server thread/INFO]: Stopping server
+[05:54:46] [Server thread/INFO]: Saving players
+[05:54:46] [Server thread/INFO]: Saving worlds
+[05:54:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:54:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:54:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:54:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:54:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:54:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:54:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
