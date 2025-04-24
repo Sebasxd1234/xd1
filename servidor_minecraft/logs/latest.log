@@ -1,152 +1,33 @@
-[06:31:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:31:43] [ServerMain/INFO]: Loaded 1290 recipes
-[06:31:44] [ServerMain/INFO]: Loaded 1399 advancements
-[06:31:44] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[06:31:44] [Server thread/INFO]: Loading properties
-[06:31:44] [Server thread/INFO]: Default game type: SURVIVAL
-[06:31:44] [Server thread/INFO]: Generating keypair
-[06:31:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:31:45] [Server thread/INFO]: Using epoll channel type
-[06:31:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:31:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:31:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:31:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:31:45] [Server thread/INFO]: Preparing level "world"
-[06:31:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:31:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:31:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:31:53] [Worker-Main-1/INFO]: Preparing spawn area: 16%
-[06:31:53] [Server thread/INFO]: Time elapsed: 1209 ms
-[06:31:53] [Server thread/INFO]: Done (8.057s)! For help, type "help"
-[06:32:01] [Server thread/INFO]: _Sebas23_[/100.93.67.125:63661] logged in with entity id 21 at (1819.2058332264082, 68.0, -1000.3618946096908)
-[06:32:01] [Server thread/INFO]: _Sebas23_ joined the game
-[06:32:25] [Server thread/INFO]: chepaboy[/100.80.73.88:64291] logged in with entity id 378 at (1815.1263541961462, 68.0, -997.2705494609455)
-[06:32:25] [Server thread/INFO]: chepaboy joined the game
-[06:33:14] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved wrongly! 0.3382970056911745
-[06:34:10] [Server thread/WARN]: _Sebas23_ moved too quickly! -9.58731107147787,2.0,-2.3579610275721734
-[06:35:00] [Server thread/WARN]: _Sebas23_ moved too quickly! -9.805767239161696,-0.84766481314945,-1.9112971201093387
-[06:35:45] [Server thread/INFO]: [Not Secure] <chepaboy> 717 -1280
-[06:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1467, y=105, z=-1088} jd{x=810, y=63, z=-1245}
-[06:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1467, y=105, z=-1088} jd{x=810, y=63, z=-1245}
-[06:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1467, y=105, z=-1088} jd{x=810, y=63, z=-1245}
-[06:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1467, y=105, z=-1088} jd{x=810, y=63, z=-1245}
-[06:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1467, y=105, z=-1088} jd{x=810, y=63, z=-1245}
-[06:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1467, y=105, z=-1088} jd{x=810, y=63, z=-1245}
-[06:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1467, y=105, z=-1088} jd{x=810, y=63, z=-1245}
-[06:38:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=811, y=78, z=-1243} jd{x=812, y=81, z=-1243}
-[06:38:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=811, y=78, z=-1243} jd{x=812, y=81, z=-1243}
-[06:38:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=811, y=78, z=-1243} jd{x=812, y=81, z=-1243}
-[06:38:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=811, y=78, z=-1243} jd{x=812, y=81, z=-1243}
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 9.606702697467199,0.0,3.1410415005743744
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 9.998488492314664,0.0,3.186023434330991
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 10.390984475175287,0.0,3.223526346984272
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 10.784071615689413,0.0,3.253713366171951
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 11.177640529010318,0.0,3.2767931072351075
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 11.57159205724804,0.0,3.293007365132098
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 11.96583670870973,0.0,3.302616241324131
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 12.360295565100273,0.0,3.305900002559156
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 12.754793858071935,0.0,3.3024594166556653
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 13.149032798414282,0.0,3.291356273860174
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 13.542546370735636,0.0,3.271243003471909
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 13.934866210879818,0.0,3.2411412784272216
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 14.325548171154878,0.0,3.2003865408441925
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 9.92711342247037,0.0,-1.3766347840441995
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 10.279129536031746,0.0,-1.5469235051718897
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 10.630427391833564,0.0,-1.720453962217789
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 10.981351577699229,0.0,-1.8964306577840944
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 11.332177953716155,0.0,-2.0741843221192084
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 11.683127785601869,0.0,-2.253150254658749
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 12.034376296133019,0.0,-2.4328552556753493
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 12.386058368401336,0.0,-2.6129091020416126
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 12.738277024054582,0.0,-2.79298995196541
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 13.091107343323529,0.0,-2.97283790546021
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 13.444603282478056,0.0,-3.152242262965501
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 13.798800251885154,0.0,-3.331036845584322
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 14.15371903068501,0.0,-3.509092294562606
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 14.509369189416702,0.0,-3.686309073765642
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 14.865748839971843,0.0,-3.8626180953592666
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 15.222849245979546,0.0,-4.037970824170088
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 15.580655667820452,0.0,-4.212337298787361
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 15.939149680310265,0.0,-4.38570084878188
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 16.29830807349208,0.0,-4.558060308358563
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 16.65810500749467,0.0,-4.729425018136453
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 17.018513903475423,0.0,-4.899810298811417
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 17.37950601995101,0.0,-5.0692403884484065
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 17.74105227093628,0.0,-5.2377440657357965
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 18.103124828741784,0.0,-5.40535069414932
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 18.465693969482913,0.0,-5.572097211723531
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 18.828731343514846,0.0,-5.738020349560202
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 19.1922098529094,0.0,-5.903156659972183
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 9.982148349808085,0.0,-4.857020285726776
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 10.346427931056951,0.0,-5.020702225286641
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 10.711071242640287,0.0,-5.183712177774623
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 11.07605393675317,0.0,-5.346089119114822
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 11.44135258417839,0.0,-5.507871648037053
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 11.80694607999476,0.0,-5.669094495946638
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 12.172813913580399,0.0,-5.829792445232442
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 12.538936127809393,0.0,-5.99000032696199
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 12.905294746367872,0.0,-6.149749485369966
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 13.271873583123238,0.0,-6.309068126541433
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 13.63865657671488,0.0,-6.467985167527559
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 14.005627778077496,0.0,-6.626530164317728
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 14.372772829327118,0.0,-6.7847297182329385
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 14.74007880091824,0.0,-6.9426077676673685
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 15.107534059985369,0.0,-7.100185856244025
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 15.475126646833587,0.0,-7.257486907592238
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 15.842845797737937,0.0,-7.414531553909001
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 16.210681821620938,0.0,-7.571338362308552
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 16.578625992787693,0.0,-7.727924043193525
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 16.946668979172728,0.0,-7.884307171226055
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 17.314803864582927,0.0,-8.040500928301299
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 17.68302293805391,0.0,-8.196520714356438
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 18.051319263443133,0.0,-8.352380388403162
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 18.41968659449708,0.0,-8.508092423551716
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 18.788119313313246,0.0,-8.663668046532166
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 19.156612360054055,0.0,-8.819117360470045
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 19.52515970192553,0.0,-8.97445299627293
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 19.893757388353606,0.0,-9.129682783662247
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 20.262401863821765,0.0,-9.28481376845616
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 20.631088449424738,0.0,-9.439855830916713
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 20.999814413088416,0.0,-9.59481432518487
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 21.36857581700565,0.0,-9.74969760808176
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 21.737370592365323,0.0,-9.90450966265189
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 22.10619540202231,0.0,-10.059257611729663
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 22.475047242546225,0.0,-10.213947865865748
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 22.843924889789946,0.0,-10.36858265459864
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 23.2128257630809,0.0,-10.523167524469955
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 23.58174753981382,0.0,-10.6777074673671
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 23.950688129643936,0.0,-10.832206975988584
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 24.319645651261112,0.0,-10.986670093762996
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 24.68861989042648,0.0,-11.14109692168131
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 25.05760917538487,0.0,-11.295491088729932
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 25.389699523050012,0.0,-11.434445835392808
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 25.688580828031036,0.0,-11.55950510407638
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 25.95757399538809,0.0,-11.672058442909929
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 26.199667839596145,0.0,-11.77335644517666
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 26.41755229361138,0.0,-11.864524644801577
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 26.613648297030295,0.0,-11.946576022290401
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 26.790134695432016,0.0,-12.020422260074156
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 26.948972449785856,0.0,-12.086883872318822
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 27.091926424917347,0.0,-12.146699321754568
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! 27.220584999127368,0.0,-12.200533224820447
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! -13.452884353426839,-3.4767150879133624E-5,-1.1126105051769173
-[06:42:47] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! -13.452884353426839,-3.4767150879133624E-5,-1.1126105051769173
-[06:42:48] [Server thread/WARN]: Spruce Boat (vehicle of chepaboy) moved too quickly! -13.452884353426839,-3.4767150879133624E-5,-1.1126105051769173
-[06:47:41] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! -28.051377942983436,0.0,-16.446856756623447
-[06:47:41] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! -28.051377942983436,0.0,-16.446856756623447
-[06:47:41] [Server thread/WARN]: Spruce Boat (vehicle of _Sebas23_) moved too quickly! -28.051377942983436,0.0,-16.446856756623447
-[06:54:39] [Server thread/INFO]: [Not Secure] <_Sebas23_> ella y yo
-[07:03:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2811, y=71, z=-725} jd{x=2810, y=70, z=-724}
-[07:12:39] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[07:12:39] [Server thread/INFO]: chepaboy left the game
-[07:12:43] [Server thread/INFO]: Stopping the server
-[07:12:43] [Server thread/INFO]: Stopping server
-[07:12:43] [Server thread/INFO]: Saving players
-[07:12:43] [Server thread/INFO]: Saving worlds
-[07:12:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:12:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:12:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:10:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:10:50] [ServerMain/INFO]: Loaded 1290 recipes
+[05:10:50] [ServerMain/INFO]: Loaded 1399 advancements
+[05:10:52] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[05:10:52] [Server thread/INFO]: Loading properties
+[05:10:52] [Server thread/INFO]: Default game type: SURVIVAL
+[05:10:52] [Server thread/INFO]: Generating keypair
+[05:10:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:10:52] [Server thread/INFO]: Using epoll channel type
+[05:10:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:10:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:10:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:10:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:10:53] [Server thread/INFO]: Preparing level "world"
+[05:11:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:11:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:11:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:11:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:11:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:11:03] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[05:11:03] [Server thread/INFO]: Time elapsed: 2115 ms
+[05:11:03] [Server thread/INFO]: Done (10.774s)! For help, type "help"
+[05:11:49] [Server thread/INFO]: _Sebas23_[/100.93.67.125:42875] logged in with entity id 21 at (2814.6901416623396, 70.0, -724.2741138919253)
+[05:11:49] [Server thread/INFO]: _Sebas23_ joined the game
+[05:13:08] [Server thread/INFO]: chepaboy[/100.80.73.88:59642] logged in with entity id 553 at (2813.300000011921, 70.0, -725.4831781215121)
+[05:13:08] [Server thread/INFO]: chepaboy joined the game
+[05:14:50] [Server thread/INFO]: _Sebas23_ lost connection: Timed out
+[05:14:50] [Server thread/INFO]: _Sebas23_ left the game
+[05:16:11] [Server thread/INFO]: _Sebas23_[/100.93.67.125:4135] logged in with entity id 1109 at (2811.046216505283, 76.0, -726.813434361886)
+[05:16:11] [Server thread/INFO]: _Sebas23_ joined the game
+[05:16:16] [Server thread/INFO]: [Not Secure] <_Sebas23_> hola
+[05:16:37] [Server thread/INFO]: [Not Secure] <_Sebas23_> oe se fue gorrible
+[05:16:37] [Server thread/INFO]: [Not Secure] <_Sebas23_> el inter
