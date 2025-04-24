@@ -56,3 +56,18 @@
 [22:10:22] [Server thread/INFO]: _Sebas23_[/100.93.67.125:53144] logged in with entity id 6936 at (2757.5647614288614, 49.0, -701.3000000119209)
 [22:10:22] [Server thread/INFO]: _Sebas23_ joined the game
 [22:11:03] [Server thread/INFO]: [Not Secure] <_Sebas23_> Game over Jhayco
+[22:14:11] [Server thread/WARN]: _Sebas23_ moved too quickly! 9.41782762099865,0.8643499858739716,3.7504569690875087
+[22:14:19] [Server thread/INFO]: [Not Secure] <_Sebas23_> Michael Myers
+[22:16:08] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[22:16:08] [Server thread/INFO]: _Sebas23_ left the game
+[22:16:46] [Server thread/INFO]: Stopping the server
+[22:16:46] [Server thread/INFO]: Stopping server
+[22:16:46] [Server thread/INFO]: Saving players
+[22:16:46] [Server thread/INFO]: Saving worlds
+[22:16:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:16:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:16:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:16:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:16:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:16:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:16:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
