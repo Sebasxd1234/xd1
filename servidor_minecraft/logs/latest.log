@@ -98,3 +98,22 @@
 [04:52:54] [Server thread/INFO]: [Not Secure] <chepaboy> Z
 [04:52:55] [Server thread/INFO]: [Not Secure] <chepaboy> Z
 [04:58:22] [Server thread/WARN]: _Sebas23_ moved too quickly! 0.0,-11.558953062305562,0.0
+[04:58:45] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[04:58:45] [Server thread/INFO]: chepaboy left the game
+[04:59:01] [Server thread/INFO]: chepaboy[/100.80.73.88:55893] logged in with entity id 2607 at (2790.4657738608544, 132.1212968405392, -967.0834020769629)
+[04:59:01] [Server thread/INFO]: chepaboy joined the game
+[04:59:53] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[04:59:53] [Server thread/INFO]: _Sebas23_ left the game
+[05:00:06] [Server thread/INFO]: Stopping the server
+[05:00:06] [Server thread/INFO]: Stopping server
+[05:00:06] [Server thread/INFO]: Saving players
+[05:00:06] [Server thread/INFO]: chepaboy lost connection: Server closed
+[05:00:06] [Server thread/INFO]: chepaboy left the game
+[05:00:06] [Server thread/INFO]: Saving worlds
+[05:00:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:00:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:00:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:00:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:00:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:00:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:00:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
